@@ -16,6 +16,8 @@ Este repositório contém uma esteira automatizada de integração e processamen
 * **Automação Serverless:** Execução diária programada (*Cron Job*) através do GitHub Actions, gerando URLs de entrega estáticas e de baixa latência via GitHub Raw.
 
 ---
+![Fluxo de Arquitetura](arquitetura.svg)
+
 
 ## 🛠️ Arquitetura do Repositório
 
