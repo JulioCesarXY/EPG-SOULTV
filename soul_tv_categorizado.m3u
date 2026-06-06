@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/JulioCesarXY/EPG-SOULTV/refs/heads/main/soul_tv_guia.xml"
 #EXTINF:-1 tvg-id="218" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/SOULTV-100x100px-.png" group-title="Regionais",TV Meio
 https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="74" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo_istv_png.png" group-title="Filmes / Séries",ISTV
