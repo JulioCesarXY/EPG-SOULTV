@@ -158,10 +158,13 @@
   <path d="M 580 995 L 580 1050" fill="none" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)" />
 
   <!-- CLIENT FINAL / APLICATIVO IPTV -->
-  <g transform="translate(220, 1050)">
-    <rect width="460" height="60" rx="8" class="bg-player" />
-    <text x="25" y="26" class="box-title">📺 Player de IPTV Client (Tivimate / VLC / OTT Navigator / Frontend Next.js)</text>
-    <text x="25" y="44" class="box-desc">Carrega canais, monta as abas por categoria e renderiza o guia de programação integrado.</text>
+    <g transform="translate(220, 1040)">
+    <rect width="460" height="85" rx="8" class="bg-player" />
+    <text x="230" y="26" class="box-title" text-anchor="middle">📺 Player de IPTV Client</text>
+    
+    <text x="230" y="50" class="box-desc" text-anchor="middle">Tivimate / VLC / OTT Navigator / Next.js</text>
+    <text x="230" y="68" class="box-desc" text-anchor="middle">Carrega canais, abas e o guia EPG integrado.</text>
   </g>
+
 
 </svg>
