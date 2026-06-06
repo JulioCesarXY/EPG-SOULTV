@@ -2,7 +2,7 @@ import requests
 import json
 from datetime import datetime, timedelta, timezone
 
-# Cabeçalhos autenticados com o seu token válido
+# Cabeçalhos autenticados
 headers = {
     "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36",
     "Authorization": "token 40d74c5c81385acde170e37cbe45ae74d74f53ed",
@@ -11,11 +11,12 @@ headers = {
     "platform": "web"
 }
 
-# Define as datas para formatação no XMLTV e na API
+# Define as datas de hoje (padrão da API e do XMLTV)
 agora = datetime.now(timezone.utc)
-data_hoje_api = agora.strftime("%d/%m/%Y")
+data_hoje_api = agora.strftime("%d/%m/%Y") # Formato 06/06/2026 para a URL
+chave_data_json = agora.strftime("%Y-%m-%d") # Formato 2026-06-06 do nó da resposta
 
-# Formatações de tempo padrão XMLTV (AAAAMMDDHHMMSS +0000)
+# Padrões de tempo para o Fallback caso o canal não tenha EPG
 xml_inicio_fallback = agora.strftime("%Y%m%d000000 +0000")
 xml_fim_fallback = (agora + timedelta(days=1)).strftime("%Y%m%d000000 +0000")
 
@@ -27,14 +28,15 @@ except FileNotFoundError:
     print("Erro: 'soul_tv_api_mestre.json' não encontrado. Rode o script de captura primeiro.")
     exit()
 
-# Inicializa a estrutura do documento XMLTV
+# Inicialização do XMLTV
 xml_content = [
     '<?xml version="1.0" encoding="UTF-8"?>\n',
     '<!DOCTYPE tv SYSTEM "xmltv.dtd">\n',
-    '<tv generator-info-name="SoulTV_EPG_Fallback_Grabber">\n'
+    '<tv generator-info-name="SoulTV_EPG_Mestre_Grabber">\n'
 ]
 
-print("1/2 - Mapeando canais no arquivo de guia...")
+# 1. Registro dos canais no cabeçalho do XML
+print("1/2 - Mapeando IDs de canais para o XML...")
 for canal in lista_canais:
     cid = canal.get("id")
     nome = canal.get("name")
@@ -43,8 +45,9 @@ for canal in lista_canais:
         xml_content.append(f'    <display-name lang="pt">{nome}</display-name>\n')
         xml_content.append(f'  </channel>\n')
 
-print(f"\n2/2 - Baixando e estruturando a programação para {data_hoje_api}...")
+print(f"\n2/2 - Extraindo cronogramas dinâmicos para a data: {data_hoje_api}...")
 
+# 2. Varredura e parsing da árvore JSON baseada na sua resposta real
 for canal in lista_canais:
     cid = canal.get("id")
     nome = canal.get("name")
@@ -57,43 +60,54 @@ for canal in lista_canais:
     epg_encontrado = False
     
     try:
-        response = requests.get(url_epg, headers=headers, timeout=10)
+        response = requests.get(url_epg, headers=headers, timeout=12)
         if response.status_code == 200:
-            programas = response.json().get("data", [])
+            resposta_json = response.json()
+            container_data = resposta_json.get("data", {})
             
-            if isinstance(programas, list) and len(programas) > 0:
-                epg_encontrado = True
-                for prog in programas:
-                    titulo = prog.get("title") or "Programação Local"
-                    descricao = prog.get("description") or desc_canal
-                    
-                    # Tratamento e limpeza das strings de data da API para o padrão XMLTV
-                    inicio_bruto = prog.get("start_at", "").replace("-", "").replace(":", "").split(".")[0]
-                    fim_bruto = prog.get("end_at", "").replace("-", "").replace(":", "").split(".")[0]
-                    
-                    if inicio_bruto and fim_bruto:
-                        xml_content.append(f'  <programme start="{inicio_bruto} +0000" stop="{fim_bruto} +0000" channel="{cid}">\n')
-                        xml_content.append(f'    <title lang="pt">{titulo}</title>\n')
-                        xml_content.append(f'    <desc lang="pt">{descricao}</desc>\n')
-                        xml_content.append(f'  </programme>\n')
+            # Acessa a chave de data correspondente (Ex: dados['data']['2026-06-06'])
+            if isinstance(container_data, dict) and chave_data_json in container_data:
+                programas = container_data[chave_data_json]
+                
+                if isinstance(programas, list) and len(programas) > 0:
+                    epg_encontrado = True
+                    for prog in programas:
+                        # Extrai os metadados do programa (priorizando o nó interno 'program')
+                        prog_info = prog.get("program") or {}
+                        titulo = prog_info.get("name") or prog.get("name") or "Programação Local"
+                        descricao = prog_info.get("description") or prog.get("program_description") or desc_canal
                         
+                        # Captura os horários de início e término
+                        t_start = prog.get("time_start") # Ex: "00:00:00"
+                        t_end = prog.get("time_end") # Ex: "01:00:00"
+                        
+                        if t_start and t_end:
+                            # Converte e formata os horários para o padrão XMLTV (AAAAMMDDHHMMSS +0000)
+                            stamp_inicio = f"{chave_data_json.replace('-', '')}{t_start.replace(':', '')} +0000"
+                            stamp_fim = f"{chave_data_json.replace('-', '')}{t_end.replace(':', '')} +0000"
+                            
+                            xml_content.append(f'  <programme start="{stamp_inicio}" stop="{stamp_fim}" channel="{cid}">\n')
+                            xml_content.append(f'    <title lang="pt">{titulo}</title>\n')
+                            xml_content.append(f'    <desc lang="pt">{descricao}</desc>\n')
+                            xml_content.append(f'  </programme>\n')
+                            
     except Exception as e:
-        print(f"  -> Conexão falhou para o canal {nome}, aplicando modo contingência.")
+        print(f"  -> Falha de comunicação com o ID {cid}: {e}")
 
-    # FALLBACK ATIVO: Se a API não retornou guia, injeta a descrição institucional do canal
+    # IMPLEMENTAÇÃO DO SEU REQUISITO: Fallback Automático usando a descrição institucional da API
     if not epg_encontrado:
-        print(f"  -> [FALLBACK] {nome} sem grade ativa. Injetando a descrição da API.")
+        print(f"  -> [FALLBACK ATIVADO] {nome} sem guia oficial. Injetando descrição mestre.")
         xml_content.append(f'  <programme start="{xml_inicio_fallback}" stop="{xml_fim_fallback}" channel="{cid}">\n')
         xml_content.append(f'    <title lang="pt">{nome} ao Vivo</title>\n')
         xml_content.append(f'    <desc lang="pt">{desc_canal}</desc>\n')
         xml_content.append(f'  </programme>\n')
     else:
-        print(f"  -> [OK] {nome} grade de programação integrada.")
+        print(f"  -> [EPG INTEGRADO] {nome}: Grade processada com sucesso.")
 
 xml_content.append('</tv>\n')
 
-# Grava o arquivo XML final
+# Criação do arquivo final XMLTV
 with open("soul_tv_guia.xml", "w", encoding="utf-8") as f_xml:
     f_xml.writelines(xml_content)
 
-print("\n[PROCESSO CONCLUÍDO] Arquivo de EPG 'soul_tv_guia.xml' gerado com sucesso!")
+print("\n=== SUCESSO COLETAL ===\nO arquivo 'soul_tv_guia.xml' está pronto e totalmente sincronizado!")
