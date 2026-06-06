@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1150" width="100%" height="100%" style="background-color: #0d1117; font-family: 'Segoe UI', Helvetica, Arial, sans-serif;">
+  
+  <!-- DEFINIÇÕES DE ESTILOS E GRADIENTES -->
+  <defs>
+    <style>
+      .title { font-size: 22px; fill: #58a6ff; font-weight: bold; letter-spacing: 1px; }
+      .subtitle { font-size: 14px; fill: #8b949e; }
+      .box-title { font-size: 14px; font-weight: bold; fill: #ffffff; }
+      .box-desc { font-size: 12px; fill: #c9d1d9; }
+      .box-desc-highlight { font-size: 12px; fill: #ff7b72; font-weight: bold; }
+      .arrow-text { font-size: 11px; fill: #8b949e; font-weight: 500; }
+      
+      /* Cores de bordas e preenchimentos */
+      .bg-github { fill: #161b22; stroke: #30363d; stroke-width: 2; }
+      .bg-api { fill: #0c2d48; stroke: #0066cc; stroke-width: 2; }
+      .bg-logic { fill: #262212; stroke: #d4a373; stroke-width: 2; }
+      .bg-output { fill: #2c1a10; stroke: #ff7b72; stroke-width: 2; }
+      .bg-player { fill: #102a1e; stroke: #2ea043; stroke-width: 2; }
+      
+      .subgraph-box { fill: #161b22; stroke: #30363d; stroke-width: 1; stroke-dasharray: 4,4; }
+      .subgraph-title { font-size: 12px; fill: #8b949e; font-weight: bold; letter-spacing: 0.5px; }
+    </style>
+    
+    <!-- Marcador de Seta -->
+    <marker id="arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#8b949e" />
+    </marker>
+  </defs>
+
+  <!-- CABEÇALHO -->
+  <g transform="translate(40, 40)">
+    <text x="0" y="0" class="title">PIPELINE DE ARQUITETURA AUTOMATIZADA</text>
+    <text x="0" y="22" class="subtitle">Integração Serverless, Engenharia Reversa de API e Distribuição de M3U / XMLTV</text>
+    <line x1="0" y1="35" x2="820" y2="35" stroke="#30363d" stroke-width="1" />
+  </g>
+
+  <!-- BLOCO 1: DISPARADOR CRON -->
+  <g transform="translate(325, 120)">
+    <rect width="250" height="70" rx="8" class="bg-github" />
+    <text x="25" y="30" class="box-title">🕒 GitHub Actions (Cron Job)</text>
+    <text x="25" y="50" class="box-desc">Disparo diário automático (03:00 AM BRT)</text>
+  </g>
+
+  <!-- LINHA DE CONEXÃO -->
+  <path d="M 450 190 L 450 240" fill="none" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)" />
+
+  <!-- CONTAINER DE AUTOMAÇÃO DO PYTHON -->
+  <rect x="40" y="240" width="820" height="340" rx="12" class="subgraph-box" />
+  <text x="55" y="262" class="subgraph-title">📌 INSTÂNCIA VIRTUAL DO RUNNER (UBUNTU-LATEST)</text>
+
+  <!-- SCRIPT 1: GERAR_M3U.PY -->
+  <g transform="translate(80, 290)">
+    <rect width="240" height="80" rx="8" class="bg-github" />
+    <text x="15" y="28" class="box-title">🐍 Script: gerar_m3u.py</text>
+    <text x="15" y="48" class="box-desc">• Injeta Payload, Token &amp; Headers</text>
+    <text x="15" y="64" class="box-desc">• Dispara requisição HTTP GET</text>
+  </g>
+
+  <!-- CONEXÃO SCRIPT 1 -> API SOULTV -->
+  <path d="M 320 330 L 580 330" fill="none" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)" />
+  <text x="350" y="322" class="arrow-text">GET /v1/brand (Token)</text>
+
+  <!-- API MESTRE SOULTV -->
+  <g transform="translate(580, 290)">
+    <rect width="240" height="80" rx="8" class="bg-api" />
+    <text x="15" y="28" class="box-title">🌐 API Mestre (Soul TV)</text>
+    <text x="15" y="48" class="box-desc">• Autentica cabeçalhos customizados</text>
+    <text x="15" y="64" class="box-desc-highlight">• Retorna JSON com 149 canais</text>
+  </g>
+
+  <!-- CONEXÃO API -> GRAVAÇÃO DATA -->
+  <path d="M 700 370 L 700 440 L 320 440" fill="none" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)" />
+  <text x="450" y="432" class="arrow-text">Entrega payload de canais ativo</text>
+
+  <!-- ARQUIVO LOCAL: SOUL_TV_API_MESTRE.JSON -->
+  <g transform="translate(80, 410)">
+    <rect width="240" height="70" rx="8" class="bg-github" />
+    <text x="15" y="28" class="box-title">📂 soul_tv_api_mestre.json</text>
+    <text x="15" y="48" class="box-desc">Banco local temporário com os metadados</text>
+  </g>
+
+  <!-- CONEXÃO DATA -> GERADOR EPG -->
+  <path d="M 200 480 L 200 520" fill="none" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)" />
+
+  <!-- SCRIPT 2: GERAR_EPG.PY -->
+  <g transform="translate(80, 520)">
+    <rect width="240" height="150" rx="8" class="bg-github" />
+    <text x="15" y="28" class="box-title">🐍 Script: gerar_epg.py</text>
+    <text x="15" y="50" class="box-desc">• Varre a ID de cada canal</text>
+    <text x="15" y="68" class="box-desc">• Consome api de schedules</text>
+    <text x="15" y="86" class="box-desc">• Processa nós e chaves de data</text>
+    <text x="15" y="104" class="box-desc">• Gera timestamps XMLTV oficiais</text>
+    <text x="15" y="122" class="box-desc">• Aplica fallback se vazio</text>
+  </g>
+
+  <!-- CONEXÃO SCRIPT 2 -> API SCHEDULES -->
+  <path d="M 320 595 L 580 595" fill="none" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)" />
+  <text x="350" y="587" class="arrow-text">GET /v1/schedules?channel=ID</text>
+
+  <!-- API SCHEDULES SOULTV -->
+  <g transform="translate(580, 555)">
+    <rect width="240" height="80" rx="8" class="bg-api" />
+    <text x="15" y="28" class="box-title">🌐 API Schedules (Soul TV)</text>
+    <text x="15" y="48" class="box-desc">• Valida cronogramas diários</text>
+    <text x="15" y="64" class="box-desc">• Retorna programas e horários</text>
+  </g>
+
+  <!-- CONEXÃO API SCHEDULES -> VALIDAÇÃO LOGICA -->
+  <path d="M 700 635 L 700 705" fill="none" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)" />
+
+  <!-- TOMADA DE DECISÃO / LOGICA FALLBACK -->
+  <g transform="translate(580, 705)">
+    <rect width="240" height="100" rx="8" class="bg-logic" />
+    <text x="15" y="28" class="box-title">⚖️ Filtro de Contingência</text>
+    <text x="15" y="52" class="box-desc">[Se tem guia]: Converte horários originais</text>
+    <text x="15" y="72" class="box-desc-highlight">[Se vazio]: Injeta descrição mestre</text>
+    <text x="15" y="88" class="box-desc-highlight">como bloco de 24h contínuo</text>
+  </g>
+
+  <!-- CONEXÃO COMPILADORES -> GIT ACTIONS COMMIT -->
+  <path d="M 200 670 L 200 780 L 325 780" fill="none" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)" />
+  <path d="M 580 755 L 450 755 L 450 775" fill="none" stroke="#8b949e" stroke-width="2" />
+
+  <!-- SALVAMENTO DE ARTEFATOS VIA GIT -->
+  <g transform="translate(325, 780)">
+    <rect width="250" height="70" rx="8" class="bg-github" />
+    <text x="20" y="30" class="box-title">💾 Git Bot Commit &amp; Push</text>
+    <text x="20" y="50" class="box-desc">Persiste os arquivos de volta no repositório</text>
+  </g>
+
+  <!-- CONEXÃO COMMIT -> REPOSITÓRIO FÍSICO -->
+  <path d="M 450 850 L 450 900" fill="none" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)" />
+
+  <!-- ENVELOPE DO REPOSITÓRIO FINAL (GITHUB RAW) -->
+  <rect x="180" y="900" width="540" height="110" rx="12" class="subgraph-box" fill="#0d1117" />
+  <text x="195" y="922" class="subgraph-title">📦 REPOSITÓRIO PÚBLICO (DISTRIBUIÇÃO DE ARTEFATOS ESTÁTICOS)</text>
+
+  <!-- ARTEFATO 1: M3U -->
+  <g transform="translate(210, 935)">
+    <rect width="220" height="60" rx="6" class="bg-output" />
+    <text x="12" y="24" class="box-title">📄 soul_tv_categorizado.m3u</text>
+    <text x="12" y="42" class="box-desc">Grade de 149 canais + Categorias</text>
+  </g>
+
+  <!-- ARTEFATO 2: XML -->
+  <g transform="translate(470, 935)">
+    <rect width="220" height="60" rx="6" class="bg-output" />
+    <text x="12" y="24" class="box-title">📄 soul_tv_guia.xml</text>
+    <text x="12" y="42" class="box-desc">Guia XMLTV estruturado + Fallback</text>
+  </g>
+
+  <!-- VÍNCULO X-TVG-URL INTERNO -->
+  <path d="M 470 965 L 430 965" fill="none" stroke="#ff7b72" stroke-width="1.5" stroke-dasharray="3,3" marker-end="url(#arrow)" />
+  <text x="438" y="958" class="arrow-text" style="fill: #ff7b72; font-size: 9px;">x-tvg-url</text>
+
+  <!-- CONEXÃO REPOSITÓRIO -> CONSUMO CLIENT -->
+  <path d="M 320 995 L 320 1050" fill="none" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)" />
+  <path d="M 580 995 L 580 1050" fill="none" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)" />
+
+  <!-- CLIENT FINAL / APLICATIVO IPTV -->
+  <g transform="translate(220, 1050)">
+    <rect width="460" height="60" rx="8" class="bg-player" />
+    <text x="25" y="26" class="box-title">📺 Player de IPTV Client (Tivimate / VLC / OTT Navigator / Frontend Next.js)</text>
+    <text x="25" y="44" class="box-desc">Carrega canais, monta as abas por categoria e renderiza o guia de programação integrado.</text>
+  </g>
+
+</svg>
