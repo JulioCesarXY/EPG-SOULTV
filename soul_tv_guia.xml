@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="SoulTV_EPG_Fallback_Grabber">
+  <channel id="218">
+    <display-name lang="pt">TV Meio</display-name>
+  </channel>
+  <channel id="74">
+    <display-name lang="pt">ISTV</display-name>
+  </channel>
+  <channel id="332">
+    <display-name lang="pt">TV Judaica</display-name>
+  </channel>
+  <channel id="331">
+    <display-name lang="pt">Bitt TV</display-name>
+  </channel>
+  <channel id="330">
+    <display-name lang="pt">TV Marataizes</display-name>
+  </channel>
+  <channel id="328">
+    <display-name lang="pt">Alpha Channel TV</display-name>
+  </channel>
+  <channel id="327">
+    <display-name lang="pt">TV IN</display-name>
+  </channel>
+  <channel id="324">
+    <display-name lang="pt">BH Channel</display-name>
+  </channel>
+  <channel id="315">
+    <display-name lang="pt">Acesso Brasil TV</display-name>
+  </channel>
+  <channel id="163">
+    <display-name lang="pt">GLN TV</display-name>
+  </channel>
+  <channel id="105">
+    <display-name lang="pt">TV Sonata</display-name>
+  </channel>
+  <channel id="149">
+    <display-name lang="pt">AWTV</display-name>
+  </channel>
+  <channel id="62">
+    <display-name lang="pt">Unique TV</display-name>
+  </channel>
+  <channel id="115">
+    <display-name lang="pt">AG Tv</display-name>
+  </channel>
+  <channel id="183">
+    <display-name lang="pt">Kids Mais</display-name>
+  </channel>
+  <channel id="61">
+    <display-name lang="pt">Tv Grande Natal HDTV</display-name>
+  </channel>
+  <channel id="78">
+    <display-name lang="pt">Tv Metropolitana Rio</display-name>
+  </channel>
+  <channel id="73">
+    <display-name lang="pt">Rede Metrópole</display-name>
+  </channel>
+  <channel id="90">
+    <display-name lang="pt">Tv Estilo</display-name>
+  </channel>
+  <channel id="68">
+    <display-name lang="pt">TV Surubim</display-name>
+  </channel>
+  <channel id="111">
+    <display-name lang="pt">Rede QDM</display-name>
+  </channel>
+  <channel id="55">
+    <display-name lang="pt">TV MAX</display-name>
+  </channel>
+  <channel id="54">
+    <display-name lang="pt">Assim é Portugal</display-name>
+  </channel>
+  <channel id="91">
+    <display-name lang="pt">TV Correio do Imbé</display-name>
+  </channel>
+  <channel id="80">
+    <display-name lang="pt">COM BRASIL</display-name>
+  </channel>
+  <channel id="88">
+    <display-name lang="pt">Rede Premium TV</display-name>
+  </channel>
+  <channel id="81">
+    <display-name lang="pt">WTJ TV</display-name>
+  </channel>
+  <channel id="112">
+    <display-name lang="pt">Blits TV</display-name>
+  </channel>
+  <channel id="82">
+    <display-name lang="pt">D+ TV</display-name>
+  </channel>
+  <channel id="77">
+    <display-name lang="pt">Rede UTV Brasil</display-name>
+  </channel>
+  <channel id="110">
+    <display-name lang="pt">Q Tal Channel</display-name>
+  </channel>
+  <channel id="85">
+    <display-name lang="pt">TV Planalto Norte</display-name>
+  </channel>
+  <channel id="117">
+    <display-name lang="pt">TV Alternativa</display-name>
+  </channel>
+  <channel id="254">
+    <display-name lang="pt">Unique Sports</display-name>
+  </channel>
+  <channel id="195">
+    <display-name lang="pt">TV Petrópolis</display-name>
+  </channel>
+  <channel id="107">
+    <display-name lang="pt">TV Mon HD</display-name>
+  </channel>
+  <channel id="89">
+    <display-name lang="pt">TV Carioca Net</display-name>
+  </channel>
+  <channel id="57">
+    <display-name lang="pt">Amazon Sat</display-name>
+  </channel>
+  <channel id="314">
+    <display-name lang="pt">Play TV Horse</display-name>
+  </channel>
+  <channel id="87">
+    <display-name lang="pt">TV A Folha</display-name>
+  </channel>
+  <channel id="122">
+    <display-name lang="pt">TV Potengi</display-name>
+  </channel>
+  <channel id="127">
+    <display-name lang="pt">TV CNB</display-name>
+  </channel>
+  <channel id="236">
+    <display-name lang="pt">Tv Adorar</display-name>
+  </channel>
+  <channel id="104">
+    <display-name lang="pt">ABBA RTV</display-name>
+  </channel>
+  <channel id="245">
+    <display-name lang="pt">Rede Brasil</display-name>
+  </channel>
+  <channel id="129">
+    <display-name lang="pt">Tv Life America</display-name>
+  </channel>
+  <channel id="132">
+    <display-name lang="pt">Primer TV</display-name>
+  </channel>
+  <channel id="255">
+    <display-name lang="pt">Tv Verdade</display-name>
+  </channel>
+  <channel id="145">
+    <display-name lang="pt">Hackathon Brasil TV</display-name>
+  </channel>
+  <channel id="140">
+    <display-name lang="pt">TV Florida</display-name>
+  </channel>
+  <channel id="126">
+    <display-name lang="pt">Adesso TV</display-name>
+  </channel>
+  <channel id="69">
+    <display-name lang="pt">VRT Channel</display-name>
+  </channel>
+  <channel id="158">
+    <display-name lang="pt">TVídeoNews</display-name>
+  </channel>
+  <channel id="226">
+    <display-name lang="pt">TV Difusão</display-name>
+  </channel>
+  <channel id="288">
+    <display-name lang="pt">TV Rede Mais Familia</display-name>
+  </channel>
+  <channel id="237">
+    <display-name lang="pt">TV Folha do Campo</display-name>
+  </channel>
+  <channel id="135">
+    <display-name lang="pt">RAE TV</display-name>
+  </channel>
+  <channel id="155">
+    <display-name lang="pt">RS SPORTS</display-name>
+  </channel>
+  <channel id="156">
+    <display-name lang="pt">RS SPORTS 2</display-name>
+  </channel>
+  <channel id="227">
+    <display-name lang="pt">Roraima TV</display-name>
+  </channel>
+  <channel id="173">
+    <display-name lang="pt">REISEN CLUBE TV</display-name>
+  </channel>
+  <channel id="137">
+    <display-name lang="pt">Astral TV</display-name>
+  </channel>
+  <channel id="148">
+    <display-name lang="pt">WTV Brasil</display-name>
+  </channel>
+  <channel id="144">
+    <display-name lang="pt">TV Avivando Nações</display-name>
+  </channel>
+  <channel id="157">
+    <display-name lang="pt">Tv Ponta da Serra</display-name>
+  </channel>
+  <channel id="166">
+    <display-name lang="pt">TV Ondas Play</display-name>
+  </channel>
+  <channel id="180">
+    <display-name lang="pt">RS SPORTS 3</display-name>
+  </channel>
+  <channel id="147">
+    <display-name lang="pt">AMC PLAY TV</display-name>
+  </channel>
+  <channel id="152">
+    <display-name lang="pt">Tv Zoom</display-name>
+  </channel>
+  <channel id="181">
+    <display-name lang="pt">America TV</display-name>
+  </channel>
+  <channel id="230">
+    <display-name lang="pt">TV Nova MT</display-name>
+  </channel>
+  <channel id="167">
+    <display-name lang="pt">TV Conquista</display-name>
+  </channel>
+  <channel id="214">
+    <display-name lang="pt">TV Clube</display-name>
+  </channel>
+  <channel id="179">
+    <display-name lang="pt">TV Itapê</display-name>
+  </channel>
+  <channel id="170">
+    <display-name lang="pt">TV Erga Omnes</display-name>
+  </channel>
+  <channel id="177">
+    <display-name lang="pt">TV Votorantim</display-name>
+  </channel>
+  <channel id="154">
+    <display-name lang="pt">Extremo Oriental TV</display-name>
+  </channel>
+  <channel id="174">
+    <display-name lang="pt">CNB American TV</display-name>
+  </channel>
+  <channel id="176">
+    <display-name lang="pt">Tv Amplitude Juína</display-name>
+  </channel>
+  <channel id="178">
+    <display-name lang="pt">Tv Amplitude Juara</display-name>
+  </channel>
+  <channel id="289">
+    <display-name lang="pt">Lider TV</display-name>
+  </channel>
+  <channel id="206">
+    <display-name lang="pt">TV Rio Preto</display-name>
+  </channel>
+  <channel id="204">
+    <display-name lang="pt">OK TV</display-name>
+  </channel>
+  <channel id="189">
+    <display-name lang="pt">Tv Evangelizar</display-name>
+  </channel>
+  <channel id="235">
+    <display-name lang="pt">Veza TV</display-name>
+  </channel>
+  <channel id="240">
+    <display-name lang="pt">Séries Classic</display-name>
+  </channel>
+  <channel id="210">
+    <display-name lang="pt">Br Global Station</display-name>
+  </channel>
+  <channel id="190">
+    <display-name lang="pt">TV COM</display-name>
+  </channel>
+  <channel id="241">
+    <display-name lang="pt">Tv Mogiana</display-name>
+  </channel>
+  <channel id="242">
+    <display-name lang="pt">CANAL START</display-name>
+  </channel>
+  <channel id="205">
+    <display-name lang="pt">GMC TV</display-name>
+  </channel>
+  <channel id="211">
+    <display-name lang="pt">TV Reconcavo</display-name>
+  </channel>
+  <channel id="193">
+    <display-name lang="pt">TV Mais Brasil</display-name>
+  </channel>
+  <channel id="66">
+    <display-name lang="pt">Bem Melhor</display-name>
+  </channel>
+  <channel id="64">
+    <display-name lang="pt">Viajando pelo Brasil</display-name>
+  </channel>
+  <channel id="229">
+    <display-name lang="pt">Canal TVC</display-name>
+  </channel>
+  <channel id="215">
+    <display-name lang="pt">40 gtv</display-name>
+  </channel>
+  <channel id="279">
+    <display-name lang="pt">Republic</display-name>
+  </channel>
+  <channel id="184">
+    <display-name lang="pt">Rede NGT TV</display-name>
+  </channel>
+  <channel id="234">
+    <display-name lang="pt">TV Onix</display-name>
+  </channel>
+  <channel id="243">
+    <display-name lang="pt">TV Litoral RN</display-name>
+  </channel>
+  <channel id="291">
+    <display-name lang="pt">Bem + TV</display-name>
+  </channel>
+  <channel id="250">
+    <display-name lang="pt">Rede TV Paraná</display-name>
+  </channel>
+  <channel id="292">
+    <display-name lang="pt">TV Liberdade</display-name>
+  </channel>
+  <channel id="221">
+    <display-name lang="pt">POA Streaming TV</display-name>
+  </channel>
+  <channel id="233">
+    <display-name lang="pt">Play TV</display-name>
+  </channel>
+  <channel id="256">
+    <display-name lang="pt">TV SBN</display-name>
+  </channel>
+  <channel id="265">
+    <display-name lang="pt">Vivax</display-name>
+  </channel>
+  <channel id="246">
+    <display-name lang="pt">TV Rabelo</display-name>
+  </channel>
+  <channel id="249">
+    <display-name lang="pt">Tenda TV</display-name>
+  </channel>
+  <channel id="259">
+    <display-name lang="pt">Coletiva TV</display-name>
+  </channel>
+  <channel id="252">
+    <display-name lang="pt">Rede Gramado</display-name>
+  </channel>
+  <channel id="171">
+    <display-name lang="pt">Tv Aurora</display-name>
+  </channel>
+  <channel id="260">
+    <display-name lang="pt">Geekdot</display-name>
+  </channel>
+  <channel id="311">
+    <display-name lang="pt">TV da Pesca</display-name>
+  </channel>
+  <channel id="238">
+    <display-name lang="pt">TV Diário do Sertão</display-name>
+  </channel>
+  <channel id="224">
+    <display-name lang="pt">TV Alagoinha</display-name>
+  </channel>
+  <channel id="60">
+    <display-name lang="pt">Tv Nordestina</display-name>
+  </channel>
+  <channel id="257">
+    <display-name lang="pt">TV Marcheti</display-name>
+  </channel>
+  <channel id="263">
+    <display-name lang="pt">FMTV</display-name>
+  </channel>
+  <channel id="285">
+    <display-name lang="pt">TV O Repórter</display-name>
+  </channel>
+  <channel id="212">
+    <display-name lang="pt">Pet Lovers TV</display-name>
+  </channel>
+  <channel id="258">
+    <display-name lang="pt">Hip Hop Vai Além TV</display-name>
+  </channel>
+  <channel id="123">
+    <display-name lang="pt">Canal do Boi</display-name>
+  </channel>
+  <channel id="296">
+    <display-name lang="pt">Tv História</display-name>
+  </channel>
+  <channel id="305">
+    <display-name lang="pt">TV Notícias Agrícolas</display-name>
+  </channel>
+  <channel id="302">
+    <display-name lang="pt">VGS TV</display-name>
+  </channel>
+  <channel id="267">
+    <display-name lang="pt">Sou + Pop TV</display-name>
+  </channel>
+  <channel id="266">
+    <display-name lang="pt">Atitude New</display-name>
+  </channel>
+  <channel id="280">
+    <display-name lang="pt">Auge TV</display-name>
+  </channel>
+  <channel id="310">
+    <display-name lang="pt">TV Gazin</display-name>
+  </channel>
+  <channel id="312">
+    <display-name lang="pt">Conexão TV</display-name>
+  </channel>
+  <channel id="301">
+    <display-name lang="pt">UMA TV</display-name>
+  </channel>
+  <channel id="231">
+    <display-name lang="pt">Tv Nova Nordeste</display-name>
+  </channel>
+  <channel id="303">
+    <display-name lang="pt">Vambora Channel</display-name>
+  </channel>
+  <channel id="284">
+    <display-name lang="pt">TV + Pet</display-name>
+  </channel>
+  <channel id="83">
+    <display-name lang="pt">Nova TV Agrotour</display-name>
+  </channel>
+  <channel id="286">
+    <display-name lang="pt">RIT TV</display-name>
+  </channel>
+  <channel id="313">
+    <display-name lang="pt">SBC</display-name>
+  </channel>
+  <channel id="28">
+    <display-name lang="pt">TV PAMPA</display-name>
+  </channel>
+  <channel id="304">
+    <display-name lang="pt">Canal 25</display-name>
+  </channel>
+  <channel id="172">
+    <display-name lang="pt">Rede SDP TV</display-name>
+  </channel>
+  <channel id="99">
+    <display-name lang="pt">Central TV</display-name>
+  </channel>
+  <channel id="251">
+    <display-name lang="pt">Masper TV</display-name>
+  </channel>
+  <channel id="118">
+    <display-name lang="pt">Onda Digital TV</display-name>
+  </channel>
+  <channel id="114">
+    <display-name lang="pt">Peru Channel</display-name>
+  </channel>
+  <channel id="247">
+    <display-name lang="pt">DM Kids TV</display-name>
+  </channel>
+  <channel id="142">
+    <display-name lang="pt">BH TV</display-name>
+  </channel>
+  <channel id="209">
+    <display-name lang="pt">Viva e Eduque</display-name>
+  </channel>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="218">
+    <title lang="pt">TV Meio ao Vivo</title>
+    <desc lang="pt">Assista TV Meio na Soul TV. Meio Norte - No meio do povo</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="74">
+    <title lang="pt">ISTV ao Vivo</title>
+    <desc lang="pt">Assista ISTV na Soul TV. A TV dos Clássicos!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="332">
+    <title lang="pt">TV Judaica ao Vivo</title>
+    <desc lang="pt">Somos mais do que uma emissora! Somos a expressão da identidade judaica brasileira, para o mundo!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="331">
+    <title lang="pt">Bitt TV ao Vivo</title>
+    <desc lang="pt">VIVE LA DIVERSION SIN LIMITES</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="330">
+    <title lang="pt">TV Marataizes ao Vivo</title>
+    <desc lang="pt">TV Marataízes — O Sul do Espírito Santo em primeiro plano</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="328">
+    <title lang="pt">Alpha Channel TV ao Vivo</title>
+    <desc lang="pt">Alpha Channel, a sua TV Alphaville</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="327">
+    <title lang="pt">TV IN ao Vivo</title>
+    <desc lang="pt">A Imagem do Interior</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="324">
+    <title lang="pt">BH Channel ao Vivo</title>
+    <desc lang="pt">Vem pro mundo. Vem pra Minas</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="315">
+    <title lang="pt">Acesso Brasil TV ao Vivo</title>
+    <desc lang="pt">O seu acesso ao Entretenimento!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="163">
+    <title lang="pt">GLN TV ao Vivo</title>
+    <desc lang="pt">Assista GLN TV na Soul TV. A arte de uma tv para todos!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="105">
+    <title lang="pt">TV Sonata ao Vivo</title>
+    <desc lang="pt">Assista TV Sonata na Soul TV. TV Sonata. Conectada em Você!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="149">
+    <title lang="pt">AWTV ao Vivo</title>
+    <desc lang="pt">Assista AWTV na Soul TV. Sempre com você</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="62">
+    <title lang="pt">Unique TV ao Vivo</title>
+    <desc lang="pt">Assista Unique TV na Soul TV. Conectada em você</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="115">
+    <title lang="pt">AG Tv ao Vivo</title>
+    <desc lang="pt">Assista AG Tv na Soul TV. A sua TV de Variedades!!!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="183">
+    <title lang="pt">Kids Mais ao Vivo</title>
+    <desc lang="pt">Assista Kids Mais na Soul TV. TV Kidmais, pra você que é mais que de mais!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="61">
+    <title lang="pt">Tv Grande Natal HDTV ao Vivo</title>
+    <desc lang="pt">Assista Tv Grande Natal HDTV na Soul TV. Um Show de Imagens e Tecnologia</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="78">
+    <title lang="pt">Tv Metropolitana Rio ao Vivo</title>
+    <desc lang="pt">Assista Tv Metropolitana Rio na Soul TV. A TV feita para você</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="73">
+    <title lang="pt">Rede Metrópole ao Vivo</title>
+    <desc lang="pt">Assista Rede Metrópole na Soul TV. Conectada com Você</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="90">
+    <title lang="pt">Tv Estilo ao Vivo</title>
+    <desc lang="pt">Assista Tv Estilo na Soul TV. A tv que todo mundo se vê!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="68">
+    <title lang="pt">TV Surubim ao Vivo</title>
+    <desc lang="pt">Assista TV Surubim na Soul TV. A televisão de Surubim</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="111">
+    <title lang="pt">Rede QDM ao Vivo</title>
+    <desc lang="pt">Assista Rede QDM na Soul TV. Rede QDM sempre algo mais pra você e toda a sua familia</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="55">
+    <title lang="pt">TV MAX ao Vivo</title>
+    <desc lang="pt">Assista TV MAX na Soul TV. A TV MAX Rio mistura entretenimento, conteúdo e ofertas 24h por dia.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="54">
+    <title lang="pt">Assim é Portugal ao Vivo</title>
+    <desc lang="pt">Assista Assim é Portugal na Soul TV. Um canal feito por brasileiros apaixonados pela Pátria Mãe</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="91">
+    <title lang="pt">TV Correio do Imbé ao Vivo</title>
+    <desc lang="pt">Assista TV Correio do Imbé na Soul TV. Rede TVC TV , Você em primeiro lugar!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="80">
+    <title lang="pt">COM BRASIL ao Vivo</title>
+    <desc lang="pt">Assista COM BRASIL na Soul TV. Tudo Que é Bom COMBrasil Fica Melhor</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="88">
+    <title lang="pt">Rede Premium TV ao Vivo</title>
+    <desc lang="pt">Assista Rede Premium TV na Soul TV. Arte, entretenimento, cultura, esportes, notícias e diversidade.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="81">
+    <title lang="pt">WTJ TV ao Vivo</title>
+    <desc lang="pt">Assista WTJ TV na Soul TV. WTJ MInas -  A TV do povo mineiro</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="112">
+    <title lang="pt">Blits TV ao Vivo</title>
+    <desc lang="pt">Assista Blits TV na Soul TV. Você está na melhor</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="82">
+    <title lang="pt">D+ TV ao Vivo</title>
+    <desc lang="pt">Assista D+ TV na Soul TV. Um mundo de possibilidades</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="77">
+    <title lang="pt">Rede UTV Brasil ao Vivo</title>
+    <desc lang="pt">Assista Rede UTV Brasil na Soul TV. Oferece notícias e assuntos da atuliadade para informação de seu publico.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="110">
+    <title lang="pt">Q Tal Channel ao Vivo</title>
+    <desc lang="pt">Assista Q Tal Channel na Soul TV. Tudo o que você quer, tudo o que você precisa</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="85">
+    <title lang="pt">TV Planalto Norte ao Vivo</title>
+    <desc lang="pt">Assista TV Planalto Norte na Soul TV. Integrando o Planalto Catarinense</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="117">
+    <title lang="pt">TV Alternativa ao Vivo</title>
+    <desc lang="pt">Assista TV Alternativa na Soul TV. A nova cara da ilha</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="254">
+    <title lang="pt">Unique Sports ao Vivo</title>
+    <desc lang="pt">Assista Unique Sports na Soul TV. Unique Sports, o canal pra quem já nasceu campeão</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="195">
+    <title lang="pt">TV Petrópolis ao Vivo</title>
+    <desc lang="pt">Assista TV Petrópolis na Soul TV. Comunicar é arte, você faz parte.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="107">
+    <title lang="pt">TV Mon HD ao Vivo</title>
+    <desc lang="pt">Assista TV Mon HD na Soul TV. Aqui o Rio Grande do Sul se vê na TV!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="89">
+    <title lang="pt">TV Carioca Net ao Vivo</title>
+    <desc lang="pt">Assista TV Carioca Net na Soul TV. Entretenimento ao Máximo!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="57">
+    <title lang="pt">Amazon Sat ao Vivo</title>
+    <desc lang="pt">Assista Amazon Sat na Soul TV. Levando os encantos da Amazônia e as histórias de seus povos.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="314">
+    <title lang="pt">Play TV Horse ao Vivo</title>
+    <desc lang="pt">Seu lugar VIP no mundo Equestre</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="87">
+    <title lang="pt">TV A Folha ao Vivo</title>
+    <desc lang="pt">Assista TV A Folha na Soul TV. Tv A Folha sempre conectada com você</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="122">
+    <title lang="pt">TV Potengi ao Vivo</title>
+    <desc lang="pt">Assista TV Potengi na Soul TV. Aqui você  tem: Diversão,  notícias e assuntos  atuais para deixa você sempre bem informado.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="127">
+    <title lang="pt">TV CNB ao Vivo</title>
+    <desc lang="pt">Assista TV CNB na Soul TV. Tv CNB a sua tv brasileira na America</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="236">
+    <title lang="pt">Tv Adorar ao Vivo</title>
+    <desc lang="pt">Assista Tv Adorar na Soul TV. Jesus Cristo é Mudança de Vida, iluminando seus dias!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="104">
+    <title lang="pt">ABBA RTV ao Vivo</title>
+    <desc lang="pt">Assista ABBA RTV na Soul TV. Descrição não disponível.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="245">
+    <title lang="pt">Rede Brasil ao Vivo</title>
+    <desc lang="pt">Assista Rede Brasil na Soul TV. Uma TV ligada em você</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="129">
+    <title lang="pt">Tv Life America ao Vivo</title>
+    <desc lang="pt">TV Life América, Conectando Culturas, Inspirando Vidas</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="132">
+    <title lang="pt">Primer TV ao Vivo</title>
+    <desc lang="pt">Assista Primer TV na Soul TV. Primer TV, a gente faz para você!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="255">
+    <title lang="pt">Tv Verdade ao Vivo</title>
+    <desc lang="pt">Assista Tv Verdade na Soul TV. Continuando o legado através de boas obras com fé, esperança e amor</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="145">
+    <title lang="pt">Hackathon Brasil TV ao Vivo</title>
+    <desc lang="pt">Assista Hackathon Brasil TV na Soul TV. O ponto de encontro da tecnologia e inovação.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="140">
+    <title lang="pt">TV Florida ao Vivo</title>
+    <desc lang="pt">Assista TV Florida na Soul TV. A sua TV brasileira na Florida</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="126">
+    <title lang="pt">Adesso TV ao Vivo</title>
+    <desc lang="pt">Assista Adesso TV na Soul TV. O canal da Serra Gaúcha</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="69">
+    <title lang="pt">VRT Channel ao Vivo</title>
+    <desc lang="pt">Assista VRT Channel na Soul TV. VRT Channel, o que há de novo no novo</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="158">
+    <title lang="pt">TVídeoNews ao Vivo</title>
+    <desc lang="pt">Assista TVídeoNews na Soul TV. TVídeoNews uma TELEVISÃO Padrão na Transmissão e no Conteúdo</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="226">
+    <title lang="pt">TV Difusão ao Vivo</title>
+    <desc lang="pt">Assista TV Difusão na Soul TV. TV para todos os gostos</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="288">
+    <title lang="pt">TV Rede Mais Familia ao Vivo</title>
+    <desc lang="pt">Assista TV Rede Mais Familia na Soul TV. A TV do bem</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="237">
+    <title lang="pt">TV Folha do Campo ao Vivo</title>
+    <desc lang="pt">Assista TV Folha do Campo na Soul TV. A vitrine do Agro Brasileiro</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="135">
+    <title lang="pt">RAE TV ao Vivo</title>
+    <desc lang="pt">Assista RAE TV na Soul TV. Divulgando, instruindo e unificando</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="155">
+    <title lang="pt">RS SPORTS ao Vivo</title>
+    <desc lang="pt">Assista RS SPORTS na Soul TV. RS NEWS - A casa de futebol amador</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="156">
+    <title lang="pt">RS SPORTS 2 ao Vivo</title>
+    <desc lang="pt">Assista RS SPORTS 2 na Soul TV. RS NEWS - A casa de futebol amador</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="227">
+    <title lang="pt">Roraima TV ao Vivo</title>
+    <desc lang="pt">Assista Roraima TV na Soul TV. O Futuro, fazemos hoje!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="173">
+    <title lang="pt">REISEN CLUBE TV ao Vivo</title>
+    <desc lang="pt">Assista REISEN CLUBE TV na Soul TV. O canal catarinense da integração!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="137">
+    <title lang="pt">Astral TV ao Vivo</title>
+    <desc lang="pt">Assista Astral TV na Soul TV. Magia e espiritualidade para todos</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="148">
+    <title lang="pt">WTV Brasil ao Vivo</title>
+    <desc lang="pt">Assista WTV Brasil na Soul TV. WTV Brasil - Livre e independente</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="144">
+    <title lang="pt">TV Avivando Nações ao Vivo</title>
+    <desc lang="pt">Assista TV Avivando Nações na Soul TV. Pregando o evangelho até os confins da terra</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="157">
+    <title lang="pt">Tv Ponta da Serra ao Vivo</title>
+    <desc lang="pt">TV Ponta da Serra - A TV do seu jeito!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="166">
+    <title lang="pt">TV Ondas Play ao Vivo</title>
+    <desc lang="pt">Assista TV Ondas Play na Soul TV. Aqui você vê o que você quer ver!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="180">
+    <title lang="pt">RS SPORTS 3 ao Vivo</title>
+    <desc lang="pt">Assista RS SPORTS 3 na Soul TV. RS NEWS - A casa de futebol amador</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="147">
+    <title lang="pt">AMC PLAY TV ao Vivo</title>
+    <desc lang="pt">Assista AMC PLAY TV na Soul TV. A Nova Era do Entretenimento</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="152">
+    <title lang="pt">Tv Zoom ao Vivo</title>
+    <desc lang="pt">Assista Tv Zoom na Soul TV. Informação e entretenimento</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="181">
+    <title lang="pt">America TV ao Vivo</title>
+    <desc lang="pt">Assista América TV na Soul TV. O Grande ABC ligado na AMERICA</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="230">
+    <title lang="pt">TV Nova MT ao Vivo</title>
+    <desc lang="pt">Assista TV Nova MT na Soul TV. Sempre com você</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="167">
+    <title lang="pt">TV Conquista ao Vivo</title>
+    <desc lang="pt">Assista TV Conquista na Soul TV. Conquistando você!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="214">
+    <title lang="pt">TV Clube ao Vivo</title>
+    <desc lang="pt">Assista ao canal TV Clube ao vivo na Soul TV.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="179">
+    <title lang="pt">TV Itapê ao Vivo</title>
+    <desc lang="pt">Assista TV Itapê na Soul TV. A TV que conta nossa história!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="170">
+    <title lang="pt">TV Erga Omnes ao Vivo</title>
+    <desc lang="pt">Assista TV Erga Omnes na Soul TV. Sapientia et Veritas</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="177">
+    <title lang="pt">TV Votorantim ao Vivo</title>
+    <desc lang="pt">Assista TV Votorantim na Soul TV. TV Votorantim o canal que tem lado, o seu.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="154">
+    <title lang="pt">Extremo Oriental TV ao Vivo</title>
+    <desc lang="pt">Assista Extremo Oriental TV na Soul TV. A melhor programação na cidade mais linda do Brasil.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="174">
+    <title lang="pt">CNB American TV ao Vivo</title>
+    <desc lang="pt">Assista CNB American TV na Soul TV. CNB TV feita em America</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="176">
+    <title lang="pt">Tv Amplitude Juína ao Vivo</title>
+    <desc lang="pt">Assista Tv Amplitude Juína na Soul TV. A Pioneira de Juína</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="178">
+    <title lang="pt">Tv Amplitude Juara ao Vivo</title>
+    <desc lang="pt">Assista Tv Amplitude Juara na Soul TV. Aqui quem faz o conteúdo é você.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="289">
+    <title lang="pt">Lider TV ao Vivo</title>
+    <desc lang="pt">Assista Lider TV na Soul TV. A sua Rede Meio em Minas Gerais. Segue a Líder!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="206">
+    <title lang="pt">TV Rio Preto ao Vivo</title>
+    <desc lang="pt">Assista TV Rio Preto na Soul TV. TV RIO PRETO - A Imagem da Cidade</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="204">
+    <title lang="pt">OK TV ao Vivo</title>
+    <desc lang="pt">Assista OK TV na Soul TV. Tv de um jeito diferente!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="189">
+    <title lang="pt">Tv Evangelizar ao Vivo</title>
+    <desc lang="pt">Assista Tv Evangelizar na Soul TV. Você liga e a gente evangeliza!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="235">
+    <title lang="pt">Veza TV ao Vivo</title>
+    <desc lang="pt">Assista Veza TV na Soul TV. ENJOY THE JOURNEY</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="240">
+    <title lang="pt">Séries Classic ao Vivo</title>
+    <desc lang="pt">Assista Séries Classic na Soul TV. Séries Western e Policiais dos anos 70</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="210">
+    <title lang="pt">Br Global Station ao Vivo</title>
+    <desc lang="pt">Assista Br Global Station na Soul TV. Fazer o Bem, Faz Bem!!!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="190">
+    <title lang="pt">TV COM ao Vivo</title>
+    <desc lang="pt">Assista TV COM na Soul TV. Interagindo com você!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="241">
+    <title lang="pt">Tv Mogiana ao Vivo</title>
+    <desc lang="pt">Assista Tv Mogiana na Soul TV. O Canal da Nossa Gente</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="242">
+    <title lang="pt">CANAL START ao Vivo</title>
+    <desc lang="pt">Assista START na Soul TV. Pausar não é uma opção!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="205">
+    <title lang="pt">GMC TV ao Vivo</title>
+    <desc lang="pt">VOCÊ SEMPRE BEM INFORMADO</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="211">
+    <title lang="pt">TV Reconcavo ao Vivo</title>
+    <desc lang="pt">Assista TV Reconcavo na Soul TV. Levando informação e edificando Vidas.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="193">
+    <title lang="pt">TV Mais Brasil ao Vivo</title>
+    <desc lang="pt">Assista TV Mais Brasil na Soul TV. A TV do Futuro</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="66">
+    <title lang="pt">Bem Melhor ao Vivo</title>
+    <desc lang="pt">Assista Bem Melhor na Soul TV. Bem Melhor com Você!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="64">
+    <title lang="pt">Viajando pelo Brasil ao Vivo</title>
+    <desc lang="pt">Assista Viajando pelo Brasil na Soul TV. Embarque nessa viagem cheia de aventuras com Marcelo e Carol</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="229">
+    <title lang="pt">Canal TVC ao Vivo</title>
+    <desc lang="pt">Assista Canal TVC na Soul TV. Seu novo canal de TV!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="215">
+    <title lang="pt">40 gtv ao Vivo</title>
+    <desc lang="pt">CONECTANDO VOCÊ ÀS MELHORES OPORTUNIDADES</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="279">
+    <title lang="pt">Republic ao Vivo</title>
+    <desc lang="pt">Assista Republic na Soul TV. Republic - Onde o conhecimento encontra você!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="184">
+    <title lang="pt">Rede NGT TV ao Vivo</title>
+    <desc lang="pt">Assista Rede NGT TV a Soul TV. A Nova Geração.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="234">
+    <title lang="pt">TV Onix ao Vivo</title>
+    <desc lang="pt">Assista TV Onix na Soul TV. Sintonize a emoção!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="243">
+    <title lang="pt">TV Litoral RN ao Vivo</title>
+    <desc lang="pt">Assista TV Litoral RN na Soul TV. O Rio Grande do Norte Passa por Aqui</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="291">
+    <title lang="pt">Bem + TV ao Vivo</title>
+    <desc lang="pt">Assista Bem + TV na Soul TV. A TV da sua família</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="250">
+    <title lang="pt">Rede TV Paraná ao Vivo</title>
+    <desc lang="pt">Assista Rede TV Paraná na Soul TV. Mais Perto de Você!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="292">
+    <title lang="pt">TV Liberdade ao Vivo</title>
+    <desc lang="pt">Assista TV Liberdade na Soul TV. Canal que conecta a comunidade</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="221">
+    <title lang="pt">POA Streaming TV ao Vivo</title>
+    <desc lang="pt">Assista POA Streaming TV na Soul TV. POA Streaming porque pra nós o que mais importa é você.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="233">
+    <title lang="pt">Play TV ao Vivo</title>
+    <desc lang="pt">Música, cinema, mundo geek, cultura pop e muito mais, tudo em um só lugar! #issoéplaytv</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="256">
+    <title lang="pt">TV SBN ao Vivo</title>
+    <desc lang="pt">Assista TV SBN na Soul TV. Espalhando a mensagem da Cruz</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="265">
+    <title lang="pt">Vivax ao Vivo</title>
+    <desc lang="pt">Assista Vivax na Soul TV. A TV da Familia</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="246">
+    <title lang="pt">TV Rabelo ao Vivo</title>
+    <desc lang="pt">Assista TV Rabelo na Soul TV. Maranhense como você!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="249">
+    <title lang="pt">Tenda TV ao Vivo</title>
+    <desc lang="pt">Assista Tenda TV na Soul TV. A Programação da Família Brasileira.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="259">
+    <title lang="pt">Coletiva TV ao Vivo</title>
+    <desc lang="pt">Assista Coletiva TV na Soul TV. Coletiva.tv – Onde o mercado te vê</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="252">
+    <title lang="pt">Rede Gramado ao Vivo</title>
+    <desc lang="pt">Assista Rede Gramado na Soul TV. A TV de Gramado pensando em Você</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="171">
+    <title lang="pt">Tv Aurora ao Vivo</title>
+    <desc lang="pt">Assista Tv Aurora na Soul TV. A clareza que aponta o início da manhã, antes do nascer do sol!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="260">
+    <title lang="pt">Geekdot ao Vivo</title>
+    <desc lang="pt">Assista Geekdot na Soul TV. Qual é o Seu Ponto?</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="311">
+    <title lang="pt">TV da Pesca ao Vivo</title>
+    <desc lang="pt">Aqui não tem estresse</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="238">
+    <title lang="pt">TV Diário do Sertão ao Vivo</title>
+    <desc lang="pt">Assista TV Diário do Sertão na Soul TV. A nossa TV.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="224">
+    <title lang="pt">TV Alagoinha ao Vivo</title>
+    <desc lang="pt">Assista TV Alagoinha na Soul TV. TV Alagoinha ligada em você!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="60">
+    <title lang="pt">Tv Nordestina ao Vivo</title>
+    <desc lang="pt">Assista Tv Nordestina na Soul TV. Arte e cultura com a cara do Nordeste.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="257">
+    <title lang="pt">TV Marcheti ao Vivo</title>
+    <desc lang="pt">Assista TV Marcheti na Soul TV. Tv Marcheti a TV feita pra você</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="263">
+    <title lang="pt">FMTV ao Vivo</title>
+    <desc lang="pt">Assista FM TV na Soul TV. FM TV do Mundo para o Mundo</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="285">
+    <title lang="pt">TV O Repórter ao Vivo</title>
+    <desc lang="pt">Assista TV O Repórter na Soul TV. TV O Reporter, o canal da cidade</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="212">
+    <title lang="pt">Pet Lovers TV ao Vivo</title>
+    <desc lang="pt">Assista Pet Lovers TV na Soul TV. O Canal da Familia Pet</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="258">
+    <title lang="pt">Hip Hop Vai Além TV ao Vivo</title>
+    <desc lang="pt">Assista Hip Hop Vai Além TV na Soul TV. Hip-Hop vai além dando vez e voz a quem merece.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="123">
+    <title lang="pt">Canal do Boi ao Vivo</title>
+    <desc lang="pt">Assista Canal do Boi na Soul TV. Ninguém acredita mais no Agronegócio do que a gente</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="296">
+    <title lang="pt">Tv História ao Vivo</title>
+    <desc lang="pt">Assista Tv História na Soul TV. A História Mundial passa por aqui</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="305">
+    <title lang="pt">TV Notícias Agrícolas ao Vivo</title>
+    <desc lang="pt">O Canal que te conecta com o Agronegócio</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="302">
+    <title lang="pt">VGS TV ao Vivo</title>
+    <desc lang="pt">Assista VGS TV na Soul TV. VGSTV Esporte e Entretenimento</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="267">
+    <title lang="pt">Sou + Pop TV ao Vivo</title>
+    <desc lang="pt">Assista Sou + Pop TV na Soul TV. Sou+Pop TV, o melhor do entretenimento, para você!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="266">
+    <title lang="pt">Atitude New ao Vivo</title>
+    <desc lang="pt">Assista Atitude New na Soul TV. Se é esporte, então passa por aqui</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="280">
+    <title lang="pt">Auge TV ao Vivo</title>
+    <desc lang="pt">Assista Auge TV na Soul TV. Auge, a TV da família brasileira!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="310">
+    <title lang="pt">TV Gazin ao Vivo</title>
+    <desc lang="pt">De A a Z, conectada com você</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="312">
+    <title lang="pt">Conexão TV ao Vivo</title>
+    <desc lang="pt">Seu novo canal de tv conectando o Paraná</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="301">
+    <title lang="pt">UMA TV ao Vivo</title>
+    <desc lang="pt">Assista UMA TV na Soul TV. Sou UMATV pra você</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="231">
+    <title lang="pt">Tv Nova Nordeste ao Vivo</title>
+    <desc lang="pt">Assista Tv Nova Nordeste na Soul TV. É Pernambuco no ar</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="303">
+    <title lang="pt">Vambora Channel ao Vivo</title>
+    <desc lang="pt">Assista Vambora Channel na Soul TV. O Mundo ao seu alcance.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="284">
+    <title lang="pt">TV + Pet ao Vivo</title>
+    <desc lang="pt">Assista TV + Pet na Soul TV. O mundo pet na sua tela</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="83">
+    <title lang="pt">Nova TV Agrotour ao Vivo</title>
+    <desc lang="pt">Assista Nova TV Agrotour na Soul TV. Nova TV Agrotour, bem mais perto de você</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="286">
+    <title lang="pt">RIT TV ao Vivo</title>
+    <desc lang="pt">Assista RIT TV na Soul TV. Há + De 20 anos fazendo a diferença</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="313">
+    <title lang="pt">SBC ao Vivo</title>
+    <desc lang="pt">Assista SBC na sua Soul TV. Muita Series, filmes,  desenhos,Informação, entretenimento e muito mais no Brasil todo 24 horas por dia no ar.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="28">
+    <title lang="pt">TV PAMPA ao Vivo</title>
+    <desc lang="pt">Assista TV PAMPA na Soul TV. O melhor da TV pampa para você!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="304">
+    <title lang="pt">Canal 25 ao Vivo</title>
+    <desc lang="pt">Canal 25 - a sua opção em entretenimento!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="172">
+    <title lang="pt">Rede SDP TV ao Vivo</title>
+    <desc lang="pt">É muito mais Brasil</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="99">
+    <title lang="pt">Central TV ao Vivo</title>
+    <desc lang="pt">Assista Central TV na Soul TV. A rede mais Top do Brasil</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="251">
+    <title lang="pt">Masper TV ao Vivo</title>
+    <desc lang="pt">Assista Masper TV na Soul TV. Infinitas possibilidades</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="118">
+    <title lang="pt">Onda Digital TV ao Vivo</title>
+    <desc lang="pt">Assista Onda Digital TV na Soul TV. A verdade das notícias!</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="114">
+    <title lang="pt">Peru Channel ao Vivo</title>
+    <desc lang="pt">Assista Peru Channel na Soul TV. Um Canal Peruano feito no Brasil para o Mundo Inteiro.</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="247">
+    <title lang="pt">DM Kids TV ao Vivo</title>
+    <desc lang="pt">Assista DM Kids TV na Soul TV. Entretenimiento y Full Diversión para los más Pequeños de casa</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="142">
+    <title lang="pt">BH TV ao Vivo</title>
+    <desc lang="pt">Assista BH TV na Soul TV. Nuestro canal</desc>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="209">
+    <title lang="pt">Viva e Eduque ao Vivo</title>
+    <desc lang="pt">Assista Viva e Eduque na Soul TV. Motivando vidas através da educação e cultura.</desc>
+  </programme>
+</tv>
