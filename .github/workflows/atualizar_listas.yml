@@ -1,21 +1,21 @@
-name: Atualizar M3U e EPG Diariamente
+name: "Atualizar M3U e EPG Diariamente"
 
 on:
   schedule:
     # Roda todos os dias às 03:00 no Horário de Brasília / UTC-3 (06:00 UTC)
     - cron: '0 6 * * *'
-  workflow_dispatch: # Permite que você force a execução manual pelo botão no GitHub
+  workflow_dispatch: # Permite forçar a execução manual clicando no botão
 
 jobs:
   build:
-    runs-code: ubuntu-latest
+    runs-on: ubuntu-latest # <--- Corrigido aqui!
 
     steps:
-    # 1. Baixa o código do seu repositório para a máquina virtual do GitHub
+    # 1. Baixa o código do seu repositório
     - name: Checkout do código
       uses: actions/checkout@v4
 
-    # 2. Configura o ambiente Python na máquina virtual
+    # 2. Configura o ambiente Python
     - name: Configurar Python
       uses: actions/setup-python@v5
       with:
@@ -27,15 +27,15 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-    # 4. Executa o primeiro script para atualizar a lista mestre e gerar o M3U
+    # 4. Executa o script que gera o M3U completo
     - name: Executar Gerador M3U
       run: python gerar_m3u.py
 
-    # 5. Executa o segundo script para gerar o guia de programação XMLTV
+    # 5. Executa o script que gera o EPG estruturado
     - name: Executar Gerador EPG
       run: python gerar_epg.py
 
-    # 6. Salva as alterações, faz o commit e o push de volta para o seu repositório
+    # 6. Faz o commit das atualizações e empurra de volta para o repositório
     - name: Subir arquivos atualizados para o GitHub
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
