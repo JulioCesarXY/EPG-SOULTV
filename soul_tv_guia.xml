@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="SoulTV_EPG_Fallback_Grabber">
+<tv generator-info-name="SoulTV_EPG_Mestre_Grabber">
   <channel id="218">
     <display-name lang="pt">TV Meio</display-name>
   </channel>
@@ -480,17 +480,129 @@
     <title lang="pt">BH Channel ao Vivo</title>
     <desc lang="pt">Vem pro mundo. Vem pra Minas</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="315">
-    <title lang="pt">Acesso Brasil TV ao Vivo</title>
-    <desc lang="pt">O seu acesso ao Entretenimento!</desc>
+  <programme start="20260606003000 +0000" stop="20260606020000 +0000" channel="315">
+    <title lang="pt">Mr. Bean</title>
+    <desc lang="pt">Mr. Bean</desc>
+  </programme>
+  <programme start="20260606020000 +0000" stop="20260606030000 +0000" channel="315">
+    <title lang="pt">Speed Racer (Desenho)</title>
+    <desc lang="pt">Speed Racer (originalmente Mach GoGoGo) é um desenho animado clássico dos anos 60 que segue Go Mifune (Speed), um jovem e destemido piloto que busca ser campeão mundial com seu carro tecnológico, o Mach 5, projetado por seu pai, Pops. Ao lado da namorada Trixie, do mecânico Sparky e do irmãozinho Gorducho com o chimpanzé Zequinha, Speed enfrenta corridas perigosas, pilotos trapaceiros e mistérios, frequentemente auxiliado pelo enigmático Corredor X.</desc>
+  </programme>
+  <programme start="20260606030000 +0000" stop="20260606040000 +0000" channel="315">
+    <title lang="pt">Os Cavaleiros do Zodíaco (Desenho)</title>
+    <desc lang="pt">Os Cavaleiros do Zodíaco (Saint Seiya) narra a saga de cinco jovens guerreiros de bronze — Seiya de Pégaso, Shiryu de Dragão, Hyoga de Cisne, Shun de Andrômeda e Ikki de Fênix — que usam o "Cosmo" e armaduras baseadas em constelações para proteger Saori Kido, a reencarnação da deusa Atena, de divindades maléficas que ameaçam a Terra.</desc>
+  </programme>
+  <programme start="20260606040000 +0000" stop="20260606053000 +0000" channel="315">
+    <title lang="pt">Caverna do Dragão (Desenho)</title>
+    <desc lang="pt">Caverna do Dragão (Dungeons & Dragons) é uma série animada sobre seis amigos transportados para um mundo de fantasia após um passeio de montanha-russa, recebendo armas mágicas e buscando o caminho de volta com a ajuda do Mestre dos Magos, enquanto enfrentam o vilão Vingador e dragões, sem um final definitivo devido ao cancelamento da série, o que gerou teorias, como a de que estariam mortos.</desc>
+  </programme>
+  <programme start="20260606053000 +0000" stop="20260606070000 +0000" channel="315">
+    <title lang="pt">Scooby Doo - Cadê Você? (Desenho)</title>
+    <desc lang="pt">"Scooby-Doo, Cadê Você!" (1969) é a série animada clássica que acompanha o dogue alemão falante, Scooby-Doo, e quatro adolescentes — Fred, Daphne, Velma e Salsicha — viajando na van "Máquina do Mistério". Juntos, eles resolvem mistérios envolvendo supostos fantasmas e monstros, que geralmente são humanos disfarçados explorando lendas.</desc>
+  </programme>
+  <programme start="20260606080000 +0000" stop="20260606073000 +0000" channel="315">
+    <title lang="pt">Admiradores da 7º Arte</title>
+    <desc lang="pt">As novidades da semana, as estreia do cinema e do streaming! Com apresentação de Thelma Souza.</desc>
+  </programme>
+  <programme start="20260606080000 +0000" stop="20260606083000 +0000" channel="315">
+    <title lang="pt">Três é Demais (Full House)</title>
+    <desc lang="pt">O repórter Danny Tanner fica viúvo repentinamente, após sua esposa morrer em um acidente de carro. Diante do desafio de criar sozinho suas três filhas pequenas, D.J. (a mais velha), Stephanie (a do meio) e a bebê Michelle, Danny decide pedir ajuda. Ele recruta seu cunhado roqueiro e amante de Elvis, Jesse Katsopolis, e seu melhor amigo comediante, Joey Gladstone, para morarem com ele em sua casa em São Francisco e ajudarem na criação das meninas. A dinâmica da série explora as confusões, desafios e momentos emocionantes que surgem dessa configuração familiar incomum.</desc>
+  </programme>
+  <programme start="20260606083000 +0000" stop="20260606080000 +0000" channel="315">
+    <title lang="pt">Mr. Bean</title>
+    <desc lang="pt">Mr. Bean</desc>
+  </programme>
+  <programme start="20260606093000 +0000" stop="20260606090000 +0000" channel="315">
+    <title lang="pt">Batman - 1966</title>
+    <desc lang="pt">Batman - 1966</desc>
+  </programme>
+  <programme start="20260606100000 +0000" stop="20260606100000 +0000" channel="315">
+    <title lang="pt">Xena - A Princesa Guerreira</title>
+    <desc lang="pt">Xena - A Princesa Guerreira</desc>
+  </programme>
+  <programme start="20260606100000 +0000" stop="20260606104500 +0000" channel="315">
+    <title lang="pt">Floribella (Novela - Versão Brasil)</title>
+    <desc lang="pt">"Floribella" (2005-2006) é uma novela musical da Band que narra a história de Maria Flor (Juliana Silveira), uma jovem alegre e órfã que trabalha como babá na mansão da família Fritzenwalden. Ela se apaixona por Frederico (Roger Gobeth), o irmão mais velho e rigoroso que cuida de seus cinco irmãos órfãos.</desc>
+  </programme>
+  <programme start="20260606104500 +0000" stop="20260606113000 +0000" channel="315">
+    <title lang="pt">Amy a menina da mochila azul (Novela)</title>
+    <desc lang="pt">Amy, a Menina da Mochila Azul (2004) é uma novela infantil mexicana sobre Amy (Danna Paola), uma menina corajosa encontrada no mar após uma tempestade pelo capitão Matiás. Vivendo em Puerto Esperanza, Amy luta contra a vilã Carlota, que dirige um orfanato, enquanto busca a felicidade com a ajuda de seu amigo Raul e da sereia Coral.</desc>
+  </programme>
+  <programme start="20260606113000 +0000" stop="20260606121500 +0000" channel="315">
+    <title lang="pt">Isa TKM (Novela)</title>
+    <desc lang="pt">Isa TKM (2008-2009) é uma novela adolescente da Nickelodeon produzida na Venezuela. A trama segue Isabela "Isa" Pasqualli, de 15 anos, que lida com o primeiro amor por Alex, a rivalidade com a mimada Cristina Ricalde, a descoberta de sua adoção e a paixão pela música com seus amigos.</desc>
+  </programme>
+  <programme start="20260606121500 +0000" stop="20260606130000 +0000" channel="315">
+    <title lang="pt">Rebelde</title>
+    <desc lang="pt">Rebelde (2004-2006) é uma novela mexicana que acompanha seis adolescentes de diferentes classes sociais no Elite Way School, um colégio semi-internato de prestígio. Liderados por Mia, Roberta, Miguel, Diego, Lupita e Giovanni, eles enfrentam dilemas típicos da juventude, bullying e conflitos familiares, unindo-se secretamente através da música e formando a banda RBD.</desc>
+  </programme>
+  <programme start="20260606130000 +0000" stop="20260606135000 +0000" channel="315">
+    <title lang="pt">Rosalinda (Novela)</title>
+    <desc lang="pt">Rosalinda (1999) é uma clássica novela mexicana protagonizada por Thalía (Rosalinda) e Fernando Carrillo (Fernando José). A trama acompanha uma jovem florista humilde e alegre que se apaixona por um pianista rico, sem saber que ele busca vingança contra sua mãe biológica, Soledade, por um crime passado. O romance enfrenta a fúria de Valéria, mãe de Fernando, resultando em sequestros, perda de memória e intrigas.</desc>
+  </programme>
+  <programme start="20260606135000 +0000" stop="20260606145000 +0000" channel="315">
+    <title lang="pt">A Madrasta (Novela)</title>
+    <desc lang="pt">"A Madrasta" (famosa versão de 2005) narra a história de Maria (Victoria Ruffo), uma mulher injustamente condenada por assassinato que passa 20 anos na prisão. Ao ser libertada, ela retorna para recuperar sua vida, filhos e marido, Estêvão (César Évora), mas precisa se casar com ele e se tornar a "madrasta" dos próprios filhos, enfrentando rejeição e buscando o verdadeiro assassino.</desc>
+  </programme>
+  <programme start="20260606155000 +0000" stop="20260606164500 +0000" channel="315">
+    <title lang="pt">Xena - A Princesa Guerreira</title>
+    <desc lang="pt">Xena - A Princesa Guerreira</desc>
+  </programme>
+  <programme start="20260606160000 +0000" stop="20260606155000 +0000" channel="315">
+    <title lang="pt">Eu, a Patroa e as Crianças</title>
+    <desc lang="pt">Eu, a Patroa e as Crianças</desc>
+  </programme>
+  <programme start="20260606164500 +0000" stop="20260606174500 +0000" channel="315">
+    <title lang="pt">Caçadora de Relíquias</title>
+    <desc lang="pt">Sydney Fox, uma professora de história, se torna uma especialista na caça de peças raras roubadas e tesouros perdidos. Sem medo do perigo, ela trabalha para o governo, colecionadores e às vezes até para bandidos.</desc>
+  </programme>
+  <programme start="20260606174500 +0000" stop="20260606190000 +0000" channel="315">
+    <title lang="pt">As Panteras (Série Clássica)</title>
+    <desc lang="pt">A série clássica "As Panteras" ("Charlie's Angels" no original) segue a história de um trio de mulheres carismáticas e habilidosas que trabalham como detetives particulares para uma agência de investigação em Los Angeles, Califórnia.</desc>
+  </programme>
+  <programme start="20260606200000 +0000" stop="20260606200000 +0000" channel="315">
+    <title lang="pt">Admiradores da 7º Arte</title>
+    <desc lang="pt">As novidades da semana, as estreia do cinema e do streaming! Com apresentação de Thelma Souza.</desc>
+  </programme>
+  <programme start="20260606200000 +0000" stop="20260606204500 +0000" channel="315">
+    <title lang="pt">A Madrasta (Novela)</title>
+    <desc lang="pt">"A Madrasta" (famosa versão de 2005) narra a história de Maria (Victoria Ruffo), uma mulher injustamente condenada por assassinato que passa 20 anos na prisão. Ao ser libertada, ela retorna para recuperar sua vida, filhos e marido, Estêvão (César Évora), mas precisa se casar com ele e se tornar a "madrasta" dos próprios filhos, enfrentando rejeição e buscando o verdadeiro assassino.</desc>
+  </programme>
+  <programme start="20260606204500 +0000" stop="20260606213000 +0000" channel="315">
+    <title lang="pt">Rosalinda (Novela)</title>
+    <desc lang="pt">Rosalinda (1999) é uma clássica novela mexicana protagonizada por Thalía (Rosalinda) e Fernando Carrillo (Fernando José). A trama acompanha uma jovem florista humilde e alegre que se apaixona por um pianista rico, sem saber que ele busca vingança contra sua mãe biológica, Soledade, por um crime passado. O romance enfrenta a fúria de Valéria, mãe de Fernando, resultando em sequestros, perda de memória e intrigas.</desc>
+  </programme>
+  <programme start="20260606213000 +0000" stop="20260606221500 +0000" channel="315">
+    <title lang="pt">Rebelde</title>
+    <desc lang="pt">Rebelde (2004-2006) é uma novela mexicana que acompanha seis adolescentes de diferentes classes sociais no Elite Way School, um colégio semi-internato de prestígio. Liderados por Mia, Roberta, Miguel, Diego, Lupita e Giovanni, eles enfrentam dilemas típicos da juventude, bullying e conflitos familiares, unindo-se secretamente através da música e formando a banda RBD.</desc>
+  </programme>
+  <programme start="20260606221500 +0000" stop="20260606230000 +0000" channel="315">
+    <title lang="pt">Isa TKM (Novela)</title>
+    <desc lang="pt">Isa TKM (2008-2009) é uma novela adolescente da Nickelodeon produzida na Venezuela. A trama segue Isabela "Isa" Pasqualli, de 15 anos, que lida com o primeiro amor por Alex, a rivalidade com a mimada Cristina Ricalde, a descoberta de sua adoção e a paixão pela música com seus amigos.</desc>
+  </programme>
+  <programme start="20260606230000 +0000" stop="20260606234500 +0000" channel="315">
+    <title lang="pt">Amy a menina da mochila azul (Novela)</title>
+    <desc lang="pt">Amy, a Menina da Mochila Azul (2004) é uma novela infantil mexicana sobre Amy (Danna Paola), uma menina corajosa encontrada no mar após uma tempestade pelo capitão Matiás. Vivendo em Puerto Esperanza, Amy luta contra a vilã Carlota, que dirige um orfanato, enquanto busca a felicidade com a ajuda de seu amigo Raul e da sereia Coral.</desc>
+  </programme>
+  <programme start="20260606234500 +0000" stop="20260606003000 +0000" channel="315">
+    <title lang="pt">Floribella (Novela - Versão Brasil)</title>
+    <desc lang="pt">"Floribella" (2005-2006) é uma novela musical da Band que narra a história de Maria Flor (Juliana Silveira), uma jovem alegre e órfã que trabalha como babá na mansão da família Fritzenwalden. Ela se apaixona por Frederico (Roger Gobeth), o irmão mais velho e rigoroso que cuida de seus cinco irmãos órfãos.</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="163">
     <title lang="pt">GLN TV ao Vivo</title>
     <desc lang="pt">Assista GLN TV na Soul TV. A arte de uma tv para todos!</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="105">
-    <title lang="pt">TV Sonata ao Vivo</title>
-    <desc lang="pt">Assista TV Sonata na Soul TV. TV Sonata. Conectada em Você!</desc>
+  <programme start="20260606003000 +0000" stop="20260606033000 +0000" channel="105">
+    <title lang="pt">PRIMEIRA SESSÃO - Filmes</title>
+    <desc lang="pt">Abrimos diariamente a nossa programação com um sucesso para inspirar o novo dia que se inicia.</desc>
+  </programme>
+  <programme start="20260606080500 +0000" stop="20260606073000 +0000" channel="105">
+    <title lang="pt">JASPION</title>
+    <desc lang="pt">Já adolescente, Jaspion (Hikaru Kurosaki) descobre seu destino e o aceita. Com a ajuda de Anri (Kiyomi Tsukada), uma androide construída por Edin, sua missão é é encontrar os pedaços da Bíblia Galáctica e destruir o cruel Satan Goss, nascido partir da união de todas as energias negativas do universo.</desc>
+  </programme>
+  <programme start="20260606083000 +0000" stop="20260606080000 +0000" channel="105">
+    <title lang="pt">JIRAIYA</title>
+    <desc lang="pt">Jiraiya (Takumi Tsutsui) é um guerreiro ninja que foi treinado pelo seu pai adotivo Tetsuzan Yamaji (Masaaki Hatsumi), um sábio mestre das artes marciais, para ser seu sucessor na Família de Feiticeiros Togakure.</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="149">
     <title lang="pt">AWTV ao Vivo</title>
@@ -508,13 +620,44 @@
     <title lang="pt">Kids Mais ao Vivo</title>
     <desc lang="pt">Assista Kids Mais na Soul TV. TV Kidmais, pra você que é mais que de mais!</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="61">
-    <title lang="pt">Tv Grande Natal HDTV ao Vivo</title>
-    <desc lang="pt">Assista Tv Grande Natal HDTV na Soul TV. Um Show de Imagens e Tecnologia</desc>
+  <programme start="20260606200000 +0000" stop="20260606200000 +0000" channel="61">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">Clips do mais diversos Ritimos Brasileiros em HDTV</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="78">
-    <title lang="pt">Tv Metropolitana Rio ao Vivo</title>
-    <desc lang="pt">Assista Tv Metropolitana Rio na Soul TV. A TV feita para você</desc>
+  <programme start="20260606020000 +0000" stop="20260606053000 +0000" channel="78">
+    <title lang="pt">METROPOLITANA KIDS</title>
+    <desc lang="pt">Programa infantil</desc>
+  </programme>
+  <programme start="20260606053000 +0000" stop="20260606080000 +0000" channel="78">
+    <title lang="pt">CONEXÃO TV BAIXADA</title>
+    <desc lang="pt">Conexão com o canal Tv Baixada do RJ.
+Apresentação Mario Viana</desc>
+  </programme>
+  <programme start="20260606080000 +0000" stop="20260606090000 +0000" channel="78">
+    <title lang="pt">TOP STREET DANCE</title>
+    <desc lang="pt">Informação,musica e dança
+
+Apresentação : Marcelo Cruz</desc>
+  </programme>
+  <programme start="20260606120000 +0000" stop="20260606130000 +0000" channel="78">
+    <title lang="pt">CINE METROPOLITANA</title>
+    <desc lang="pt">Filmes classicos para a familia .</desc>
+  </programme>
+  <programme start="20260606140000 +0000" stop="20260606150000 +0000" channel="78">
+    <title lang="pt">HIT'S TV</title>
+    <desc lang="pt">Apresentação Cláudio Capano</desc>
+  </programme>
+  <programme start="20260606150000 +0000" stop="20260606160000 +0000" channel="78">
+    <title lang="pt">PROGRAMA SÓ TEM AQUI</title>
+    <desc lang="pt">Programa de variedades entrevistas com futuros artistas .</desc>
+  </programme>
+  <programme start="20260606180000 +0000" stop="20260606190000 +0000" channel="78">
+    <title lang="pt">FALA AI TATI</title>
+    <desc lang="pt">Programa de entrevista .</desc>
+  </programme>
+  <programme start="20260606190000 +0000" stop="20260606210000 +0000" channel="78">
+    <title lang="pt">CINE METROPOLITANA</title>
+    <desc lang="pt">Filmes classicos para a familia .</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="73">
     <title lang="pt">Rede Metrópole ao Vivo</title>
@@ -536,9 +679,9 @@
     <title lang="pt">TV MAX ao Vivo</title>
     <desc lang="pt">Assista TV MAX na Soul TV. A TV MAX Rio mistura entretenimento, conteúdo e ofertas 24h por dia.</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="54">
-    <title lang="pt">Assim é Portugal ao Vivo</title>
-    <desc lang="pt">Assista Assim é Portugal na Soul TV. Um canal feito por brasileiros apaixonados pela Pátria Mãe</desc>
+  <programme start="20260606201000 +0000" stop="20260606015900 +0000" channel="54">
+    <title lang="pt">PLAYLIST PORTUGAL</title>
+    <desc lang="pt">VIDEOCLIPES DE SUCESSO</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="91">
     <title lang="pt">TV Correio do Imbé ao Vivo</title>
@@ -592,9 +735,13 @@
     <title lang="pt">TV Mon HD ao Vivo</title>
     <desc lang="pt">Assista TV Mon HD na Soul TV. Aqui o Rio Grande do Sul se vê na TV!</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="89">
-    <title lang="pt">TV Carioca Net ao Vivo</title>
-    <desc lang="pt">Assista TV Carioca Net na Soul TV. Entretenimento ao Máximo!</desc>
+  <programme start="20260606150000 +0000" stop="20260606170000 +0000" channel="89">
+    <title lang="pt">CINE TERROR</title>
+    <desc lang="pt">Películas de terror</desc>
+  </programme>
+  <programme start="20260606180000 +0000" stop="20260606200000 +0000" channel="89">
+    <title lang="pt">CINEMA EM CASA</title>
+    <desc lang="pt">Películas variadas</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="57">
     <title lang="pt">Amazon Sat ao Vivo</title>
@@ -616,13 +763,77 @@
     <title lang="pt">TV CNB ao Vivo</title>
     <desc lang="pt">Assista TV CNB na Soul TV. Tv CNB a sua tv brasileira na America</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="236">
-    <title lang="pt">Tv Adorar ao Vivo</title>
-    <desc lang="pt">Assista Tv Adorar na Soul TV. Jesus Cristo é Mudança de Vida, iluminando seus dias!</desc>
+  <programme start="20260606170000 +0000" stop="20260606180000 +0000" channel="236">
+    <title lang="pt">REDE BOAS NOVAS</title>
+    <desc lang="pt">Programa</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="104">
-    <title lang="pt">ABBA RTV ao Vivo</title>
-    <desc lang="pt">Assista ABBA RTV na Soul TV. Descrição não disponível.</desc>
+  <programme start="20260606180000 +0000" stop="20260606190000 +0000" channel="236">
+    <title lang="pt">PASTOR ALEXANDRE IPCN</title>
+    <desc lang="pt">Programa</desc>
+  </programme>
+  <programme start="20260606180000 +0000" stop="20260606195900 +0000" channel="236">
+    <title lang="pt">REDE MAIS FAMILIA</title>
+    <desc lang="pt">Programa</desc>
+  </programme>
+  <programme start="20260606190100 +0000" stop="20260606170000 +0000" channel="236">
+    <title lang="pt">REDE MAIS FAMILIA</title>
+    <desc lang="pt">Programa</desc>
+  </programme>
+  <programme start="20260606033000 +0000" stop="20260606050000 +0000" channel="104">
+    <title lang="pt">TV ADHONEP</title>
+    <desc lang="pt">Programa ADHONEP com depoimentos de superação testemunhos de fé.</desc>
+  </programme>
+  <programme start="20260606050000 +0000" stop="20260606060000 +0000" channel="104">
+    <title lang="pt">Desperta</title>
+    <desc lang="pt">Programa Desperta apresentação Adilson Bopsin e convidados.</desc>
+  </programme>
+  <programme start="20260606060000 +0000" stop="20260606080000 +0000" channel="104">
+    <title lang="pt">Brasil Gospel</title>
+    <desc lang="pt">Programa Brasil Gospel com clipes musicais e louvores.</desc>
+  </programme>
+  <programme start="20260606080000 +0000" stop="20260606080000 +0000" channel="104">
+    <title lang="pt">Litoral ao Meio Dia</title>
+    <desc lang="pt">Programa de entrevistas com a participação de convidados e Alexandre Garcia. Apresentação Adilson Bopsin.</desc>
+  </programme>
+  <programme start="20260606090000 +0000" stop="20260606093000 +0000" channel="104">
+    <title lang="pt">Programa Pr Lindomar Silva</title>
+    <desc lang="pt">Programa de fé com Pr Lindomar Silva.</desc>
+  </programme>
+  <programme start="20260606103000 +0000" stop="20260606110000 +0000" channel="104">
+    <title lang="pt">TV ADHONEP</title>
+    <desc lang="pt">Programa da TV ADHONEP</desc>
+  </programme>
+  <programme start="20260606120000 +0000" stop="20260606130000 +0000" channel="104">
+    <title lang="pt">Desperta</title>
+    <desc lang="pt">Programa Desperta apresentação Adilson Bopsin e convidados.</desc>
+  </programme>
+  <programme start="20260606130000 +0000" stop="20260606140000 +0000" channel="104">
+    <title lang="pt">Litoral ao Meio Dia</title>
+    <desc lang="pt">Programa de entrevistas com a participação de convidados e Alexandre Garcia. Apresentação Adilson Bopsin.</desc>
+  </programme>
+  <programme start="20260606140000 +0000" stop="20260606140000 +0000" channel="104">
+    <title lang="pt">Brasil Gospel</title>
+    <desc lang="pt">Programa Brasil Gospel com clipes musicais e louvores.</desc>
+  </programme>
+  <programme start="20260606163000 +0000" stop="20260606170000 +0000" channel="104">
+    <title lang="pt">Direção Retro</title>
+    <desc lang="pt">Programa de carros antigos mostrando relíquias que fizeram épocas.</desc>
+  </programme>
+  <programme start="20260606170000 +0000" stop="20260606183000 +0000" channel="104">
+    <title lang="pt">TV ADHONEP</title>
+    <desc lang="pt">Programa da TV ADHONEP</desc>
+  </programme>
+  <programme start="20260606183000 +0000" stop="20260606183000 +0000" channel="104">
+    <title lang="pt">Desperta</title>
+    <desc lang="pt">Programa Desperta apresentação Adilson Bopsin e convidados.</desc>
+  </programme>
+  <programme start="20260606193000 +0000" stop="20260606190000 +0000" channel="104">
+    <title lang="pt">Direção Retro</title>
+    <desc lang="pt">Programa de carros antigos mostrando relíquias que fizeram épocas.</desc>
+  </programme>
+  <programme start="20260606200000 +0000" stop="20260606033000 +0000" channel="104">
+    <title lang="pt">Brasil Gospel - Reprises</title>
+    <desc lang="pt">Reprise dos melhores programas Brasil Gospel</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="245">
     <title lang="pt">Rede Brasil ao Vivo</title>
@@ -664,9 +875,57 @@
     <title lang="pt">TV Difusão ao Vivo</title>
     <desc lang="pt">Assista TV Difusão na Soul TV. TV para todos os gostos</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="288">
-    <title lang="pt">TV Rede Mais Familia ao Vivo</title>
-    <desc lang="pt">Assista TV Rede Mais Familia na Soul TV. A TV do bem</desc>
+  <programme start="20260606010000 +0000" stop="20260606002900 +0000" channel="288">
+    <title lang="pt">ORAÇÃO E HINOS DA HARPA</title>
+    <desc lang="pt">Oração da Manhã e Hinos da Harpa: Comece o dia com um momento de Paz e Fé.</desc>
+  </programme>
+  <programme start="20260606013000 +0000" stop="20260606005900 +0000" channel="288">
+    <title lang="pt">CLIPES E PREGAÇÕES</title>
+    <desc lang="pt">Sessão com o melhor da música gospel e ministrações da palavra de Deus</desc>
+  </programme>
+  <programme start="20260606020000 +0000" stop="20260606025900 +0000" channel="288">
+    <title lang="pt">BOAS NOVAS MANHÃ</title>
+    <desc lang="pt">Cultos para toda a família</desc>
+  </programme>
+  <programme start="20260606040000 +0000" stop="20260606035900 +0000" channel="288">
+    <title lang="pt">CLIPES E PREGAÇÕES</title>
+    <desc lang="pt">Sessão com o melhor da música gospel e ministrações da palavra de Deus</desc>
+  </programme>
+  <programme start="20260606050000 +0000" stop="20260606045900 +0000" channel="288">
+    <title lang="pt">BOAS NOVAS MANHÃ</title>
+    <desc lang="pt">Cultos para toda a família</desc>
+  </programme>
+  <programme start="20260606080000 +0000" stop="20260606075900 +0000" channel="288">
+    <title lang="pt">Pastor Alexandre Maciel</title>
+    <desc lang="pt">Ministério Vida Abundante. Testemunhos e orações ao vivo com Pr Alexandre Maciel</desc>
+  </programme>
+  <programme start="20260606121500 +0000" stop="20260606135900 +0000" channel="288">
+    <title lang="pt">PODCAST SEJA LUZ</title>
+    <desc lang="pt">Igor Faria conversa com personalidades</desc>
+  </programme>
+  <programme start="20260606150000 +0000" stop="20260606145900 +0000" channel="288">
+    <title lang="pt">FALANDO DE VIDA</title>
+    <desc lang="pt">Programa da Comunidade Cristã Amor e Graça com Emerson Viana</desc>
+  </programme>
+  <programme start="20260606160000 +0000" stop="20260606165900 +0000" channel="288">
+    <title lang="pt">BOAS NOVAS NOITE</title>
+    <desc lang="pt">Cultos e celebrações</desc>
+  </programme>
+  <programme start="20260606180000 +0000" stop="20260606175900 +0000" channel="288">
+    <title lang="pt">Pastor Alexandre Maciel</title>
+    <desc lang="pt">Ministério Vida Abundante. Testemunhos e orações ao vivo com Pr Alexandre Maciel</desc>
+  </programme>
+  <programme start="20260606190000 +0000" stop="20260606185900 +0000" channel="288">
+    <title lang="pt">CLIPES E PREGAÇÕES</title>
+    <desc lang="pt">Sessão com o melhor da música gospel e ministrações da palavra de Deus</desc>
+  </programme>
+  <programme start="20260606210000 +0000" stop="20260606213000 +0000" channel="288">
+    <title lang="pt">ENTRE NÓS - REPRISE</title>
+    <desc lang="pt">Reapresentação do Musical com entrevistas e participação do público ao vivo</desc>
+  </programme>
+  <programme start="20260606223000 +0000" stop="20260606235900 +0000" channel="288">
+    <title lang="pt">CLIPES E PREGAÇÕES</title>
+    <desc lang="pt">Sessão com o melhor da música gospel e ministrações da palavra de Deus</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="237">
     <title lang="pt">TV Folha do Campo ao Vivo</title>
@@ -684,9 +943,21 @@
     <title lang="pt">RS SPORTS 2 ao Vivo</title>
     <desc lang="pt">Assista RS SPORTS 2 na Soul TV. RS NEWS - A casa de futebol amador</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="227">
-    <title lang="pt">Roraima TV ao Vivo</title>
-    <desc lang="pt">Assista Roraima TV na Soul TV. O Futuro, fazemos hoje!</desc>
+  <programme start="20260606030000 +0000" stop="20260606033000 +0000" channel="227">
+    <title lang="pt">Roraima em 1 Minuto</title>
+    <desc lang="pt">Revista eletrônica com informações rápidas e objetivas sobre acontecimentos do estado. O programa apresenta notícias, curiosidades e conteúdos curtos adaptados também para redes sociais.</desc>
+  </programme>
+  <programme start="20260606050000 +0000" stop="20260606060000 +0000" channel="227">
+    <title lang="pt">Top Ofertas</title>
+    <desc lang="pt">Programa apresentado por Haynara Araujo voltado para divulgação de ofertas, produtos e oportunidades de compra. O conteúdo destaca promoções, serviços e novidades do comércio local, conectando consumidores e empresas.</desc>
+  </programme>
+  <programme start="20260606100000 +0000" stop="20260606103000 +0000" channel="227">
+    <title lang="pt">Tás Aonde?</title>
+    <desc lang="pt">Programa musical e cultural apresentado por Paulo Silas. A atração apresenta artistas, eventos, cultura regional e entretenimento, valorizando a música e as manifestações culturais de Roraima.</desc>
+  </programme>
+  <programme start="20260606150000 +0000" stop="20260606150000 +0000" channel="227">
+    <title lang="pt">Conectados</title>
+    <desc lang="pt">Programa cristão voltado à reflexão espiritual, música gospel, mensagens de fé e temas voltados à vida cristã. A atração promove momentos de inspiração, testemunhos e conteúdos edificantes.</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="173">
     <title lang="pt">REISEN CLUBE TV ao Vivo</title>
@@ -696,9 +967,37 @@
     <title lang="pt">Astral TV ao Vivo</title>
     <desc lang="pt">Assista Astral TV na Soul TV. Magia e espiritualidade para todos</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="148">
-    <title lang="pt">WTV Brasil ao Vivo</title>
-    <desc lang="pt">Assista WTV Brasil na Soul TV. WTV Brasil - Livre e independente</desc>
+  <programme start="20260606020000 +0000" stop="20260606030000 +0000" channel="148">
+    <title lang="pt">TOP WTV</title>
+    <desc lang="pt">As melhores músicas Pop/Rock estão aqui!</desc>
+  </programme>
+  <programme start="20260606090000 +0000" stop="20260606090000 +0000" channel="148">
+    <title lang="pt">TOP WTV</title>
+    <desc lang="pt">As melhores músicas Pop/Rock estão aqui!</desc>
+  </programme>
+  <programme start="20260606133000 +0000" stop="20260606140000 +0000" channel="148">
+    <title lang="pt">TRILHA DE LETRAS</title>
+    <desc lang="pt">O Trilha de Letras é um programa que mescla literatura e informação, com entrevistas conduzidas, nesta quarta temporada, por Eliana Alves Cruz. A cada episódio, a jornalista, escritora e roteirista irá conduzir conversas com autores, editores, críticos e com quem faz parte do mundo do livro. O programa debaterá temas atuais por meio da literatura, sempre com convidados diferentes.</desc>
+  </programme>
+  <programme start="20260606150000 +0000" stop="20260606150000 +0000" channel="148">
+    <title lang="pt">TOP WTV</title>
+    <desc lang="pt">As melhores músicas Pop/Rock estão aqui!</desc>
+  </programme>
+  <programme start="20260606170000 +0000" stop="20260606163000 +0000" channel="148">
+    <title lang="pt">WTV GAMES (INÉDITO)</title>
+    <desc lang="pt">WTV GAMES é o checkpoint gamer da WTV BRASIL, apresentado por Luana Lunhaa, com histórias, curiosidades, opiniões e novidades do universo dos games.</desc>
+  </programme>
+  <programme start="20260606173000 +0000" stop="20260606180000 +0000" channel="148">
+    <title lang="pt">TEMPERANDO O PAPO</title>
+    <desc lang="pt">Temperando O Papo é um programa de variedades, com dicas de culinária, artesanato, pautas para as mulheres e entrevistas com celebridades.</desc>
+  </programme>
+  <programme start="20260606200000 +0000" stop="20260606203000 +0000" channel="148">
+    <title lang="pt">TRILHA DE LETRAS</title>
+    <desc lang="pt">O Trilha de Letras é um programa que mescla literatura e informação, com entrevistas conduzidas, nesta quarta temporada, por Eliana Alves Cruz. A cada episódio, a jornalista, escritora e roteirista irá conduzir conversas com autores, editores, críticos e com quem faz parte do mundo do livro. O programa debaterá temas atuais por meio da literatura, sempre com convidados diferentes.</desc>
+  </programme>
+  <programme start="20260606220000 +0000" stop="20260606010000 +0000" channel="148">
+    <title lang="pt">MADRUGADA WTV</title>
+    <desc lang="pt">Um Bloco com muita música, pra você passar a noite toda com a gente!</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="144">
     <title lang="pt">TV Avivando Nações ao Vivo</title>
@@ -760,9 +1059,25 @@
     <title lang="pt">CNB American TV ao Vivo</title>
     <desc lang="pt">Assista CNB American TV na Soul TV. CNB TV feita em America</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="176">
-    <title lang="pt">Tv Amplitude Juína ao Vivo</title>
-    <desc lang="pt">Assista Tv Amplitude Juína na Soul TV. A Pioneira de Juína</desc>
+  <programme start="20260606022900 +0000" stop="20260606045900 +0000" channel="176">
+    <title lang="pt">Fala Brasil (edição de sábado)</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo. A missão é apresentar as principais notícias com um avanço em comparação ao que está estampado nas primeiras páginas dos principais jornais do país. Outro ponto é projetar o dia, antecipando os fatos que vão mobilizar a atenção dos brasileiros.</desc>
+  </programme>
+  <programme start="20260606070000 +0000" stop="20260606063000 +0000" channel="176">
+    <title lang="pt">Cadeia Neles</title>
+    <desc lang="pt">Programa policial estadual.
+
+Apresentação: Daniel Santos</desc>
+  </programme>
+  <programme start="20260606120000 +0000" stop="20260606135500 +0000" channel="176">
+    <title lang="pt">Cidade Alerta - Especial de Sábado</title>
+    <desc lang="pt">Apresentado por Reinaldo Gottino, o Cidade Alerta é um telejornal que leva até você um olhar diferente da notícia habitual.
+ 
+ O programa se consagrou devido ao jeito ágil de passar a informação.</desc>
+  </programme>
+  <programme start="20260606145500 +0000" stop="20260606150000 +0000" channel="176">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O Jornal da Record é o primeiro em formato multiplataforma da Record TV, com cinco edições distribuídas ao longo do dia na emissora, além de conteúdo exclusivo gerado para outras mídias. Além da tradicional versão que vai ao ar às 19h45 e que tem uma hora de duração, apresentada por Christina Lemos e Celso Freitas, há ainda na Record TV quatro boletins completamente ao vivo, com as principais notícias do momento. Um quinto boletim é produzido exclusivamente para a internet. Todo o conteúdo está disponível também na Record News, no portal R7.com e no PlayPlus.</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="178">
     <title lang="pt">Tv Amplitude Juara ao Vivo</title>
@@ -840,9 +1155,89 @@
     <title lang="pt">Republic ao Vivo</title>
     <desc lang="pt">Assista Republic na Soul TV. Republic - Onde o conhecimento encontra você!</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="184">
-    <title lang="pt">Rede NGT TV ao Vivo</title>
-    <desc lang="pt">Assista Rede NGT TV a Soul TV. A Nova Geração.</desc>
+  <programme start="20260606000000 +0000" stop="20260606005900 +0000" channel="184">
+    <title lang="pt">MADRUGA NGT</title>
+    <desc lang="pt">Seleção de varios programas</desc>
+  </programme>
+  <programme start="20260606010000 +0000" stop="20260606015900 +0000" channel="184">
+    <title lang="pt">REVISTA RURAL</title>
+    <desc lang="pt">Programa dedicado ao Agro Negócio.</desc>
+  </programme>
+  <programme start="20260606020000 +0000" stop="20260606022900 +0000" channel="184">
+    <title lang="pt">NGT NOTICIAS</title>
+    <desc lang="pt">Programa de Jornalismo conduzido pela Jornalista Vivyane Pinheiro.</desc>
+  </programme>
+  <programme start="20260606023000 +0000" stop="20260606025900 +0000" channel="184">
+    <title lang="pt">PESCA AVENTUA JANGO</title>
+    <desc lang="pt">Programa de Pesca do Jango</desc>
+  </programme>
+  <programme start="20260606030000 +0000" stop="20260606035900 +0000" channel="184">
+    <title lang="pt">NGT SERIES - CHAPARRAL</title>
+    <desc lang="pt">Serie classica de faroeste</desc>
+  </programme>
+  <programme start="20260606040000 +0000" stop="20260606065900 +0000" channel="184">
+    <title lang="pt">NGT KIDS</title>
+    <desc lang="pt">Programação Infantil</desc>
+  </programme>
+  <programme start="20260606070000 +0000" stop="20260606075900 +0000" channel="184">
+    <title lang="pt">HORA DA DIVERSÃO</title>
+    <desc lang="pt">Programa infantil com brincadeiras e muitos desenhos.</desc>
+  </programme>
+  <programme start="20260606080000 +0000" stop="20260606085900 +0000" channel="184">
+    <title lang="pt">REVISTA RURAL</title>
+    <desc lang="pt">Programa dedicado ao Agro Negócio.</desc>
+  </programme>
+  <programme start="20260606090000 +0000" stop="20260606095900 +0000" channel="184">
+    <title lang="pt">VIAJANDO PELO BRASIL</title>
+    <desc lang="pt">Programa de Turismo que explora todas cidades brasileiras, com lindas imagens e muitas dicas.</desc>
+  </programme>
+  <programme start="20260606100000 +0000" stop="20260606105900 +0000" channel="184">
+    <title lang="pt">PESCA AVENTUA JANGO</title>
+    <desc lang="pt">Programa de Pesca do Jango</desc>
+  </programme>
+  <programme start="20260606110000 +0000" stop="20260606130000 +0000" channel="184">
+    <title lang="pt">PROFISSAO MULHER</title>
+    <desc lang="pt">Revista eletronica feminina, com quadros que vão desde noticias a fofocas de celebridades.</desc>
+  </programme>
+  <programme start="20260606130000 +0000" stop="20260606135900 +0000" channel="184">
+    <title lang="pt">NA LEVADA DO SAMBA</title>
+    <desc lang="pt">Programa que tras os bastidores das escolas de Samba do Rio de Janeiro.</desc>
+  </programme>
+  <programme start="20260606140000 +0000" stop="20260606142900 +0000" channel="184">
+    <title lang="pt">NGT NOTICIAS</title>
+    <desc lang="pt">Programa de Jornalismo conduzido pela Jornalista Vivyane Pinheiro.</desc>
+  </programme>
+  <programme start="20260606143000 +0000" stop="20260606145900 +0000" channel="184">
+    <title lang="pt">FOCO AMBIENTAL</title>
+    <desc lang="pt">Programa de Eco-Turismo com informações emgeral de Ecologia.</desc>
+  </programme>
+  <programme start="20260606150000 +0000" stop="20260606155900 +0000" channel="184">
+    <title lang="pt">PROFISSAO MULHER</title>
+    <desc lang="pt">Revista eletronica feminina, com quadros que vão desde noticias a fofocas de celebridades.</desc>
+  </programme>
+  <programme start="20260606160000 +0000" stop="20260606165900 +0000" channel="184">
+    <title lang="pt">REVISTA RURAL</title>
+    <desc lang="pt">Programa dedicado ao Agro Negócio.</desc>
+  </programme>
+  <programme start="20260606180000 +0000" stop="20260606185900 +0000" channel="184">
+    <title lang="pt">PODCAST SEG - PROJETO RAP</title>
+    <desc lang="pt">Podcasts de Sucesso</desc>
+  </programme>
+  <programme start="20260606190000 +0000" stop="20260606195900 +0000" channel="184">
+    <title lang="pt">CINE NGT</title>
+    <desc lang="pt">Seleção dos melhores Filmes para a Familia.</desc>
+  </programme>
+  <programme start="20260606200000 +0000" stop="20260606205900 +0000" channel="184">
+    <title lang="pt">MADRUGA NGT</title>
+    <desc lang="pt">Seleção de varios programas</desc>
+  </programme>
+  <programme start="20260606210000 +0000" stop="20260606215900 +0000" channel="184">
+    <title lang="pt">MADRUGA NGT</title>
+    <desc lang="pt">Seleção de varios programas</desc>
+  </programme>
+  <programme start="20260606220000 +0000" stop="20260606235900 +0000" channel="184">
+    <title lang="pt">CINE NGT</title>
+    <desc lang="pt">Seleção dos melhores Filmes para a Familia.</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="234">
     <title lang="pt">TV Onix ao Vivo</title>
@@ -852,21 +1247,248 @@
     <title lang="pt">TV Litoral RN ao Vivo</title>
     <desc lang="pt">Assista TV Litoral RN na Soul TV. O Rio Grande do Norte Passa por Aqui</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="291">
-    <title lang="pt">Bem + TV ao Vivo</title>
-    <desc lang="pt">Assista Bem + TV na Soul TV. A TV da sua família</desc>
+  <programme start="20260606030000 +0000" stop="20260606040000 +0000" channel="291">
+    <title lang="pt">Circulando</title>
+    <desc lang="pt">Visitando lugares turísticos</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="250">
-    <title lang="pt">Rede TV Paraná ao Vivo</title>
-    <desc lang="pt">Assista Rede TV Paraná na Soul TV. Mais Perto de Você!</desc>
+  <programme start="20260606040000 +0000" stop="20260606050000 +0000" channel="291">
+    <title lang="pt">Culto da Celebração</title>
+    <desc lang="pt">Culto da Igreja Batista Atitude</desc>
+  </programme>
+  <programme start="20260606050000 +0000" stop="20260606063000 +0000" channel="291">
+    <title lang="pt">Bem + No Ar</title>
+    <desc lang="pt">Jornal</desc>
+  </programme>
+  <programme start="20260606070000 +0000" stop="20260606073000 +0000" channel="291">
+    <title lang="pt">Cinco Clássicos</title>
+    <desc lang="pt">Podcast</desc>
+  </programme>
+  <programme start="20260606073000 +0000" stop="20260606080000 +0000" channel="291">
+    <title lang="pt">Nossas Histórias Mulheres</title>
+    <desc lang="pt">Depoimentos</desc>
+  </programme>
+  <programme start="20260606080000 +0000" stop="20260606083000 +0000" channel="291">
+    <title lang="pt">Last Call</title>
+    <desc lang="pt">Variados</desc>
+  </programme>
+  <programme start="20260606083000 +0000" stop="20260606090000 +0000" channel="291">
+    <title lang="pt">O Show Da Malta</title>
+    <desc lang="pt">Documentários gravados em Portugal</desc>
+  </programme>
+  <programme start="20260606103000 +0000" stop="20260606110000 +0000" channel="291">
+    <title lang="pt">Viva Mais Leve</title>
+    <desc lang="pt">Saúde e Bem estar</desc>
+  </programme>
+  <programme start="20260606120000 +0000" stop="20260606123000 +0000" channel="291">
+    <title lang="pt">Som Da Hora</title>
+    <desc lang="pt">Musical</desc>
+  </programme>
+  <programme start="20260606123000 +0000" stop="20260606130000 +0000" channel="291">
+    <title lang="pt">Deslocamente</title>
+    <desc lang="pt">Deslocamente; Desloca a Sua Mente.
+O propósito deste programa é apresentar em até 10 minutos a evolução tecnológica desde as engrenagens arcaicas até os motores de última geração que movimentam pequenas e grandes máquinas.
+Queremos ensinar e mostrar que o homem é uma engrenagem cerebral e sempre será uma máquina em evolução. O que você vai inventar para beneficiar nosso Planeta ?</desc>
+  </programme>
+  <programme start="20260606130000 +0000" stop="20260606140000 +0000" channel="291">
+    <title lang="pt">Talentos</title>
+    <desc lang="pt">Variedades - Apresentação Adriana Araújo</desc>
+  </programme>
+  <programme start="20260606150000 +0000" stop="20260606153000 +0000" channel="291">
+    <title lang="pt">Bem + No Ar</title>
+    <desc lang="pt">Jornal</desc>
+  </programme>
+  <programme start="20260606153000 +0000" stop="20260606173000 +0000" channel="291">
+    <title lang="pt">Ao vivo IBA</title>
+    <desc lang="pt">Transmissão ao vivo da Igreja Batista Atitude</desc>
+  </programme>
+  <programme start="20260606173000 +0000" stop="20260606180000 +0000" channel="291">
+    <title lang="pt">Last Call</title>
+    <desc lang="pt">Variados</desc>
+  </programme>
+  <programme start="20260606180000 +0000" stop="20260606190000 +0000" channel="291">
+    <title lang="pt">Petrópolis Film Commission</title>
+    <desc lang="pt">Podcast sobre filmes</desc>
+  </programme>
+  <programme start="20260606190000 +0000" stop="20260606200000 +0000" channel="291">
+    <title lang="pt">Bem + No Ar</title>
+    <desc lang="pt">Jornal</desc>
+  </programme>
+  <programme start="20260606200000 +0000" stop="20260606210000 +0000" channel="291">
+    <title lang="pt">Telestai</title>
+    <desc lang="pt">Histórias da Bíblia</desc>
+  </programme>
+  <programme start="20260606213000 +0000" stop="20260606220000 +0000" channel="291">
+    <title lang="pt">O Show Da Malta</title>
+    <desc lang="pt">Documentários gravados em Portugal</desc>
+  </programme>
+  <programme start="20260606220000 +0000" stop="20260606223000 +0000" channel="291">
+    <title lang="pt">Last Call</title>
+    <desc lang="pt">Variados</desc>
+  </programme>
+  <programme start="20260606230000 +0000" stop="20260606233000 +0000" channel="291">
+    <title lang="pt">Povos e Línguas</title>
+    <desc lang="pt">Cultura</desc>
+  </programme>
+  <programme start="20260606233000 +0000" stop="20260606000000 +0000" channel="291">
+    <title lang="pt">Fala Inês</title>
+    <desc lang="pt">Apresentação Maria Inês</desc>
+  </programme>
+  <programme start="20260606020000 +0000" stop="20260606030000 +0000" channel="250">
+    <title lang="pt">IGREJA UNIVERSAL DO REINO DE DEUS</title>
+    <desc lang="pt">IGREJA UNIVERSAL DO REINO DE DEUS</desc>
+  </programme>
+  <programme start="20260606030000 +0000" stop="20260606033000 +0000" channel="250">
+    <title lang="pt">HORA DO ZAP</title>
+    <desc lang="pt">HORA DO ZAP</desc>
+  </programme>
+  <programme start="20260606033000 +0000" stop="20260606043000 +0000" channel="250">
+    <title lang="pt">PMG ULTRA FARMA</title>
+    <desc lang="pt">PMG ULTRA FARMA</desc>
+  </programme>
+  <programme start="20260606043000 +0000" stop="20260606050000 +0000" channel="250">
+    <title lang="pt">REDE TV PARANA LOCAL</title>
+    <desc lang="pt">REDE TV PARANA LOCAL</desc>
+  </programme>
+  <programme start="20260606050000 +0000" stop="20260606053000 +0000" channel="250">
+    <title lang="pt">REDE TV PARANA LOCAL</title>
+    <desc lang="pt">REDE TV PARANA LOCAL</desc>
+  </programme>
+  <programme start="20260606071500 +0000" stop="20260606070000 +0000" channel="250">
+    <title lang="pt">CAFÉ DA TARDE</title>
+    <desc lang="pt">CAFÉ DA TARDE</desc>
+  </programme>
+  <programme start="20260606080000 +0000" stop="20260606083000 +0000" channel="250">
+    <title lang="pt">O CHEFE É VOCE</title>
+    <desc lang="pt">O CHEFE É VOCE
+
+Comandado pelo Chef Cristiano Mazalli, o programa visita restaurantes e hotéis para explorar sabores, receitas e histórias marcantes da gastronomia brasileira. 
+Uma viagem de puro sabor, turismo e entretenimento.</desc>
+  </programme>
+  <programme start="20260606083000 +0000" stop="20260606090000 +0000" channel="250">
+    <title lang="pt">JAPA NA TV</title>
+    <desc lang="pt">Programa Japa da TV. Super dicas de viagens, gastronomia e eventos da cultura japonesa. Viaje pelo mundo com os grupos do Japa!</desc>
+  </programme>
+  <programme start="20260606090000 +0000" stop="20260606092500 +0000" channel="250">
+    <title lang="pt">REDE TV PARANA LOCAL</title>
+    <desc lang="pt">REDE TV PARANA LOCAL</desc>
+  </programme>
+  <programme start="20260606140000 +0000" stop="20260606155500 +0000" channel="250">
+    <title lang="pt">BRASIL DO POVO</title>
+    <desc lang="pt">BRASIL DO POVO</desc>
+  </programme>
+  <programme start="20260606153000 +0000" stop="20260606160000 +0000" channel="250">
+    <title lang="pt">ROBERTO HINÇA</title>
+    <desc lang="pt">ROBERTO HINÇA</desc>
+  </programme>
+  <programme start="20260606155500 +0000" stop="20260606163000 +0000" channel="250">
+    <title lang="pt">REDE TV NEWS</title>
+    <desc lang="pt">o REDETV! NEWS traz as principais notícias do dia, com análises políticas e econômicas, além de reportagens especiais com repórteres de todo o Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20260606173000 +0000" stop="20260606181000 +0000" channel="250">
+    <title lang="pt">TV FAMA</title>
+    <desc lang="pt">O programa traz notícias de celebridades e bastidores do mundo da fama.</desc>
+  </programme>
+  <programme start="20260606181000 +0000" stop="20260606191000 +0000" channel="250">
+    <title lang="pt">OPERAÇÃO DE RISCO</title>
+    <desc lang="pt">é o reality policial pioneiro da TV brasileira que te coloca dentro das viaturas que atendem ocorrências em todo o país. Perseguições, ações policiais e muita ação, sem corte e sem censura.</desc>
+  </programme>
+  <programme start="20260606191000 +0000" stop="20260606203000 +0000" channel="250">
+    <title lang="pt">MEGA SONHO</title>
+    <desc lang="pt">Um game show inédito e dinâmico</desc>
+  </programme>
+  <programme start="20260606200000 +0000" stop="20260606203000 +0000" channel="250">
+    <title lang="pt">REDE TV PARANA LOCAL</title>
+    <desc lang="pt">REDE TV PARANA LOCAL</desc>
+  </programme>
+  <programme start="20260606214500 +0000" stop="20260606230000 +0000" channel="250">
+    <title lang="pt">MADRUGADA ANIMADA</title>
+    <desc lang="pt">MADRUGADA ANIMADA</desc>
+  </programme>
+  <programme start="20260606230000 +0000" stop="20260606010000 +0000" channel="250">
+    <title lang="pt">IGREJA DA GRAÇA NO SEU LAR</title>
+    <desc lang="pt">IGREJA DA GRAÇA NO SEU LAR</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="292">
     <title lang="pt">TV Liberdade ao Vivo</title>
     <desc lang="pt">Assista TV Liberdade na Soul TV. Canal que conecta a comunidade</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="221">
-    <title lang="pt">POA Streaming TV ao Vivo</title>
-    <desc lang="pt">Assista POA Streaming TV na Soul TV. POA Streaming porque pra nós o que mais importa é você.</desc>
+  <programme start="20260606000000 +0000" stop="20260606010000 +0000" channel="221">
+    <title lang="pt">INTELIGÊNCIA EMOCIONAL</title>
+    <desc lang="pt">Programa INTELIGÊNCIA EMOCIONAL.
+Ao vivo nas segundas-feiras, às 20:30h.
+Apresentação de Andreza Vargas.
+O espaço de reflexão para autoconhecimento, crescimento e desenvolvimento humano.</desc>
+  </programme>
+  <programme start="20260606020000 +0000" stop="20260606023000 +0000" channel="221">
+    <title lang="pt">CONVERSANDO NEGÓCIOS</title>
+    <desc lang="pt">O programa CONVERSANDO NEGÓCIOS é transmitido às terças e quintas, às 20:00h pelo canal POA Streaming no YouTube e via canal 160 da SoulTV, que você encontra nas lojas de app de seu sistema, e em TV's smart.</desc>
+  </programme>
+  <programme start="20260606023000 +0000" stop="20260606040000 +0000" channel="221">
+    <title lang="pt">ATIVIDADE</title>
+    <desc lang="pt">O programa ATIVIDADE é transmitido ao vivo de segunda a sexta, às 18:30h pelo canal POA Streaming no YouTube e via canal 160 da SoulTV, que você encontra nas lojas de app de seu sistema, e em TV's smart.</desc>
+  </programme>
+  <programme start="20260606040000 +0000" stop="20260606050000 +0000" channel="221">
+    <title lang="pt">FALA MERCADO</title>
+    <desc lang="pt">O programa FALA MERCADO é transmitido às segundas, às 09:00h pelo canal POA Streaming no YouTube e via canal 160 da SoulTV, que você encontra nas lojas de app de seu sistema, e em TV's smart.</desc>
+  </programme>
+  <programme start="20260606060000 +0000" stop="20260606070000 +0000" channel="221">
+    <title lang="pt">INTELIGÊNCIA EMOCIONAL</title>
+    <desc lang="pt">Programa INTELIGÊNCIA EMOCIONAL.
+Ao vivo nas segundas-feiras, às 20:30h.
+Apresentação de Andreza Vargas.
+O espaço de reflexão para autoconhecimento, crescimento e desenvolvimento humano.</desc>
+  </programme>
+  <programme start="20260606070000 +0000" stop="20260606080000 +0000" channel="221">
+    <title lang="pt">RS MEIO DIA</title>
+    <desc lang="pt">Quadros, entrevistas, notícias, previsão do tempo e muito mais. 
+O programa RS MEIO DIA, vai ao ar de segunda a sexta ás 12:30, ao vivo no poa streaming tv, canoas streaming tv e canal 160 da soul tv, que você encontra em sua loja de app's, ou em smartv's.</desc>
+  </programme>
+  <programme start="20260606100000 +0000" stop="20260606110000 +0000" channel="221">
+    <title lang="pt">RS EDUCAÇÃO</title>
+    <desc lang="pt">O RS Educação é transmitido ao vivo toda segunda, às 21h pelo canal POA Streaming no YouTube e via canal 160 da SoulTV, que você encontra nas lojas de app de seu sistema, e em TV's smart.</desc>
+  </programme>
+  <programme start="20260606110000 +0000" stop="20260606120000 +0000" channel="221">
+    <title lang="pt">DIÁRIO DE BORDO</title>
+    <desc lang="pt">DIÁRIO DE BORDO é transmitido ao vivo de segunda a sexta, às 12h pelo canal POA Streaming no YouTube e via canal 160 da SoulTV, que você encontra nas lojas de app de seu sistema, e em TV's smart.</desc>
+  </programme>
+  <programme start="20260606130000 +0000" stop="20260606140000 +0000" channel="221">
+    <title lang="pt">SURTADAS NA REDE</title>
+    <desc lang="pt">O programa SURTADAS NA REDE é transmitido aos sábados, às 18:00h pelo canal POA Streaming no YouTube e via canal 160 da SoulTV, que você encontra nas lojas de app de seu sistema, e em TV's smart.</desc>
+  </programme>
+  <programme start="20260606140000 +0000" stop="20260606150000 +0000" channel="221">
+    <title lang="pt">FRONTEIRA ABERTA</title>
+    <desc lang="pt">O Fronteira Aberta é transmitido ao vivo quarta, às 16h pelo canal POA Streaming no YouTube e via canal 160 da SoulTV, que você encontra nas lojas de app de seu sistema, e em TV's smart.</desc>
+  </programme>
+  <programme start="20260606150000 +0000" stop="20260606153000 +0000" channel="221">
+    <title lang="pt">DE BEM COM A VIDA</title>
+    <desc lang="pt">Programa DE BEM COM A VIDA. Ao vivo nas segundas, às 20:30h.</desc>
+  </programme>
+  <programme start="20260606160000 +0000" stop="20260606170000 +0000" channel="221">
+    <title lang="pt">DIÁRIO DE BORDO</title>
+    <desc lang="pt">DIÁRIO DE BORDO é transmitido ao vivo de segunda a sexta, às 12h pelo canal POA Streaming no YouTube e via canal 160 da SoulTV, que você encontra nas lojas de app de seu sistema, e em TV's smart.</desc>
+  </programme>
+  <programme start="20260606170000 +0000" stop="20260606183000 +0000" channel="221">
+    <title lang="pt">ATIVIDADE</title>
+    <desc lang="pt">O programa ATIVIDADE é transmitido ao vivo de segunda a sexta, às 18:30h pelo canal POA Streaming no YouTube e via canal 160 da SoulTV, que você encontra nas lojas de app de seu sistema, e em TV's smart.</desc>
+  </programme>
+  <programme start="20260606183000 +0000" stop="20260606185900 +0000" channel="221">
+    <title lang="pt">GRAMADO NOTÍCIAS</title>
+    <desc lang="pt">GRAMADO NOTÍCIAS é transmitido ao vivo de segunda a sexta, às 12h pelo canal POA Streaming no YouTube e via canal 160 da SoulTV, que você encontra nas lojas de app de seu sistema, e em TV's smart.</desc>
+  </programme>
+  <programme start="20260606200000 +0000" stop="20260606210000 +0000" channel="221">
+    <title lang="pt">DIÁRIO DE BORDO</title>
+    <desc lang="pt">DIÁRIO DE BORDO é transmitido ao vivo de segunda a sexta, às 12h pelo canal POA Streaming no YouTube e via canal 160 da SoulTV, que você encontra nas lojas de app de seu sistema, e em TV's smart.</desc>
+  </programme>
+  <programme start="20260606210000 +0000" stop="20260606220000 +0000" channel="221">
+    <title lang="pt">FRONTEIRA ABERTA</title>
+    <desc lang="pt">O Fronteira Aberta é transmitido ao vivo quarta, às 16h pelo canal POA Streaming no YouTube e via canal 160 da SoulTV, que você encontra nas lojas de app de seu sistema, e em TV's smart.</desc>
+  </programme>
+  <programme start="20260606230000 +0000" stop="20260606000000 +0000" channel="221">
+    <title lang="pt">TALK DE MÃE</title>
+    <desc lang="pt">Programa TALK DE MÃE. 
+Ao vivo nas segundas-feiras, às 16h.
+Apresentação de Luciane Echevarria.
+O mundo da maternidade e a informação correta que faz bem para toda a família.</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="233">
     <title lang="pt">Play TV ao Vivo</title>
@@ -876,21 +1498,133 @@
     <title lang="pt">TV SBN ao Vivo</title>
     <desc lang="pt">Assista TV SBN na Soul TV. Espalhando a mensagem da Cruz</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="265">
-    <title lang="pt">Vivax ao Vivo</title>
-    <desc lang="pt">Assista Vivax na Soul TV. A TV da Familia</desc>
+  <programme start="20260606000000 +0000" stop="20260606020000 +0000" channel="265">
+    <title lang="pt">Cine Retrô</title>
+    <desc lang="pt">Um espaço dedicado aos clássicos que marcaram época. O Cine Retrô resgata filmes antigos que atravessaram gerações e deixaram sua marca na história do cinema. Uma seleção especial para quem valoriza boas histórias, atuações memoráveis e o charme das produções de outros tempos.</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="246">
-    <title lang="pt">TV Rabelo ao Vivo</title>
-    <desc lang="pt">Assista TV Rabelo na Soul TV. Maranhense como você!</desc>
+  <programme start="20260606020000 +0000" stop="20260606030000 +0000" channel="265">
+    <title lang="pt">Oração do terço</title>
+    <desc lang="pt">Um momento de pausa e recolhimento para fortalecer o espírito e o emocional. A tradicional oração do terço conduzida pelo padre Mário José é acompanhada de mensagens que acolhem, inspiram e renovam a espiritualidade no dia a dia. Apresentação: Pe. Mário José</desc>
+  </programme>
+  <programme start="20260606030000 +0000" stop="20260606040000 +0000" channel="265">
+    <title lang="pt">Daniel Boone</title>
+    <desc lang="pt">Aventura e história se encontram nesta série clássica que retrata a vida de Daniel Boone, um dos grandes pioneiros da colonização do oeste americano. Em meio a florestas, conflitos e alianças com povos indígenas, Boone e sua família enfrentam os desafios de um território ainda selvagem.</desc>
+  </programme>
+  <programme start="20260606040000 +0000" stop="20260606055000 +0000" channel="265">
+    <title lang="pt">Desenhos</title>
+    <desc lang="pt">Uma programação recheada de aventuras, risadas e personagens inesquecíveis. Dos clássicos que marcaram época às animações que encantam novas gerações, essa seleção de desenhos traz diversão para toda a família, com histórias que atravessam o tempo e seguem conquistando públicos de todas as idades.</desc>
+  </programme>
+  <programme start="20260606055000 +0000" stop="20260606055500 +0000" channel="265">
+    <title lang="pt">Firinfa e os Fifos</title>
+    <desc lang="pt">Rock, amizade e diversão com uma turma pra lá de animada! Firinfa e os Fifos é uma banda formada por cinco crianças que transformam situações do dia a dia em música. Com muito som e energia, o desenho mistura rock clássico, humor e criatividade para entreter toda a família.</desc>
+  </programme>
+  <programme start="20260606055500 +0000" stop="20260606060000 +0000" channel="265">
+    <title lang="pt">Mundo da Nina</title>
+    <desc lang="pt">Música, animação e muita imaginação! Mundo da Nina é um universo colorido e divertido onde personagens como Momô, Duuk, DonaTuur, Unik e Ripa convidam as crianças a cantar, dançar e explorar novos sons. Um conteúdo leve e envolvente, feito para estimular todos os sentidos e entreter toda a família.</desc>
+  </programme>
+  <programme start="20260606060000 +0000" stop="20260606070000 +0000" channel="265">
+    <title lang="pt">Experiência de Deus</title>
+    <desc lang="pt">Um espaço sagrado de encontro interior. Conduzido pelo padre Reginaldo Manzotti, o programa reúne orações, reflexões e leituras da palavra de Deus, promovendo conexão espiritual, fortalecimento emocional e renovação da fé. Apresentação: Pe. Reginaldo Manzotti</desc>
+  </programme>
+  <programme start="20260606070000 +0000" stop="20260606073000 +0000" channel="265">
+    <title lang="pt">Série Retrô</title>
+    <desc lang="pt">Clássicos que atravessaram gerações e seguem encantando fãs. As séries retrô trazem de volta personagens marcantes, tramas inesquecíveis e o charme das produções que fizeram história na TV. Uma viagem no tempo repleta de nostalgia, emoção e boas lembranças.</desc>
+  </programme>
+  <programme start="20260606073000 +0000" stop="20260606090000 +0000" channel="265">
+    <title lang="pt">Cine Retrô</title>
+    <desc lang="pt">Um espaço dedicado aos clássicos que marcaram época. O Cine Retrô resgata filmes antigos que atravessaram gerações e deixaram sua marca na história do cinema. Uma seleção especial para quem valoriza boas histórias, atuações memoráveis e o charme das produções de outros tempos.</desc>
+  </programme>
+  <programme start="20260606090000 +0000" stop="20260606100000 +0000" channel="265">
+    <title lang="pt">Túnel do Tempo Vivax</title>
+    <desc lang="pt">Quando uma falha em um experimento abre um buraco no tempo, cabe a uma equipe secreta restaurar a linha temporal original. De viagens ao passado a correções históricas, essa jornada mistura ficção científica, ação e suspense em uma luta contra o colapso do tempo.</desc>
+  </programme>
+  <programme start="20260606100000 +0000" stop="20260606110000 +0000" channel="265">
+    <title lang="pt">Culinária Vivax</title>
+    <desc lang="pt">Receitas, afeto e identidade na cozinha. Culinária Vivax reúne os programas gastronômicos da emissora — Josi pra Você, Sabor em Foco e Eai, Maria — em uma faixa recheada de sabores e boas conversas. Dicas práticas, convidados especiais e aquele tempero caseiro que faz toda a diferença.</desc>
+  </programme>
+  <programme start="20260606110000 +0000" stop="20260606120000 +0000" channel="265">
+    <title lang="pt">Oração do terço</title>
+    <desc lang="pt">Um momento de pausa e recolhimento para fortalecer o espírito e o emocional. A tradicional oração do terço conduzida pelo padre Mário José é acompanhada de mensagens que acolhem, inspiram e renovam a espiritualidade no dia a dia. Apresentação: Pe. Mário José</desc>
+  </programme>
+  <programme start="20260606120000 +0000" stop="20260606130000 +0000" channel="265">
+    <title lang="pt">Revisitando</title>
+    <desc lang="pt">Um reencontro com os grandes nomes da música brasileira que marcaram época. A cada edição, o programa revive memórias afetivas, histórias de bastidores e performances inesquecíveis, aproximando gerações por meio de entrevistas com artistas consagrados. Apresentação: Elias Jó</desc>
+  </programme>
+  <programme start="20260606130000 +0000" stop="20260606140000 +0000" channel="265">
+    <title lang="pt">Semana Pop</title>
+    <desc lang="pt">Tudo o que bomba na cultura pop em um só lugar. Com linguagem leve, visual marcante e ritmo dinâmico, o programa traz curiosidades, entrevistas e reviews sobre filmes, séries, animes, HQs, games, música e muito mais. Um mergulho divertido no universo geek e nas tendências da semana.</desc>
+  </programme>
+  <programme start="20260606140000 +0000" stop="20260606150000 +0000" channel="265">
+    <title lang="pt">PodVivax</title>
+    <desc lang="pt">Conversas que informam, inspiram e provocam reflexão. O PodVivax reúne episódios com convidados e especialistas para discutir temas relevantes da atualidade, sempre com uma abordagem acessível, dinâmica e plural. Um espaço de troca para quem busca conteúdo de qualidade, em áudio e vídeo.</desc>
+  </programme>
+  <programme start="20260606150000 +0000" stop="20260606153000 +0000" channel="265">
+    <title lang="pt">Evidências</title>
+    <desc lang="pt">Uma jornada emocionante por fatos, histórias e descobertas. Rodrigo Silva conduz uma investigação sobre as evidências históricas e arqueológicas da Bíblia, enquanto Laura Silva compartilha curiosidades culturais do cenário dessas narrativas. Um programa que une fé, ciência e reflexão. Apresentação: Rodrigo Silva e Laura Silva</desc>
+  </programme>
+  <programme start="20260606153000 +0000" stop="20260606160000 +0000" channel="265">
+    <title lang="pt">Família Monstro</title>
+    <desc lang="pt">Uma família nada comum que conquista pela sua esquisitice encantadora. Herman, Lily, Eddie e Marilyn vivem situações hilárias em meio ao cotidiano suburbano, sempre cercados por olhares curiosos e sustos involuntários. Uma clássica comédia que mistura monstros e muito bom humor.</desc>
+  </programme>
+  <programme start="20260606160000 +0000" stop="20260606170000 +0000" channel="265">
+    <title lang="pt">Nas asas da Vivax</title>
+    <desc lang="pt">Entrevistas que tocam, motivam e provocam novos olhares. O programa oferece conversas sinceras com pessoas que compartilham experiências marcantes e trajetórias que despertam empatia, força e inspiração. Apresentação: Luciano Peres</desc>
+  </programme>
+  <programme start="20260606170000 +0000" stop="20260606180000 +0000" channel="265">
+    <title lang="pt">Arena Sertaneja</title>
+    <desc lang="pt">O melhor da música sertaneja em um palco só. Artistas convidados dividem histórias, sucessos e bastidores em entrevistas vibrantes que celebram a cultura sertaneja e aproximam o público das raízes musicais do Brasil. Apresentação: Batista Alencar</desc>
+  </programme>
+  <programme start="20260606180000 +0000" stop="20260606190000 +0000" channel="265">
+    <title lang="pt">Backstage</title>
+    <desc lang="pt">Muito além do palco, o Backstage revela o que acontece por trás dos grandes eventos culturais de São Paulo. Com acesso exclusivo, o programa acompanha bastidores, entrevistas com artistas e organizadores, além de mostrar toda a movimentação que faz o espetáculo acontecer. Apresentação: Hedras Graf</desc>
+  </programme>
+  <programme start="20260606190000 +0000" stop="20260606200000 +0000" channel="265">
+    <title lang="pt">Série Retrô</title>
+    <desc lang="pt">Clássicos que atravessaram gerações e seguem encantando fãs. As séries retrô trazem de volta personagens marcantes, tramas inesquecíveis e o charme das produções que fizeram história na TV. Uma viagem no tempo repleta de nostalgia, emoção e boas lembranças.</desc>
+  </programme>
+  <programme start="20260606200000 +0000" stop="20260606210000 +0000" channel="265">
+    <title lang="pt">PodVivax</title>
+    <desc lang="pt">Conversas que informam, inspiram e provocam reflexão. O PodVivax reúne episódios com convidados e especialistas para discutir temas relevantes da atualidade, sempre com uma abordagem acessível, dinâmica e plural. Um espaço de troca para quem busca conteúdo de qualidade, em áudio e vídeo.</desc>
+  </programme>
+  <programme start="20260606210000 +0000" stop="20260606220000 +0000" channel="265">
+    <title lang="pt">Viagem ao Fundo do Mar</title>
+    <desc lang="pt">Tecnologia, mistério e muita ação nas profundezas do oceano. A bordo do submarino nuclear Seaview, o Almirante Nelson e o Capitão Crane enfrentam perigos que vão além da ciência: de conspirações globais a criaturas desconhecidas, essa expedição mergulha nos segredos mais obscuros do fundo do mar.</desc>
+  </programme>
+  <programme start="20260606220000 +0000" stop="20260606230000 +0000" channel="265">
+    <title lang="pt">Thunderbirds</title>
+    <desc lang="pt">Tecnologia, mistério e muita ação nas profundezas do oceano. A bordo do submarino nuclear Seaview, o Almirante Nelson e o Capitão Crane enfrentam perigos que vão além da ciência: de conspirações globais a criaturas desconhecidas, essa expedição mergulha nos segredos mais obscuros do fundo do mar.</desc>
+  </programme>
+  <programme start="20260606230000 +0000" stop="20260606233000 +0000" channel="265">
+    <title lang="pt">Evidências</title>
+    <desc lang="pt">Uma jornada emocionante por fatos, histórias e descobertas. Rodrigo Silva conduz uma investigação sobre as evidências históricas e arqueológicas da Bíblia, enquanto Laura Silva compartilha curiosidades culturais do cenário dessas narrativas. Um programa que une fé, ciência e reflexão. Apresentação: Rodrigo Silva e Laura Silva</desc>
+  </programme>
+  <programme start="20260606233000 +0000" stop="20260606000000 +0000" channel="265">
+    <title lang="pt">Vigilante Rodoviário</title>
+    <desc lang="pt">A estrada é seu território de justiça. O patrulheiro Carlos percorre o país combatendo o crime com bravura e inteligência, sempre ao lado do fiel companheiro Lobo, um pastor alemão que ajuda a manter a ordem com faro afiado e lealdade inabalável.</desc>
+  </programme>
+  <programme start="20260606050000 +0000" stop="20260606060000 +0000" channel="246">
+    <title lang="pt">Experiência de Deus</title>
+    <desc lang="pt">Experiência de Deus é um programa diário de interação. É apresentado pelo Padre Reginaldo Manzotti há mais 20 anos. Atende aos telespectadores que ligam em busca de aconselhamentos e apresenta um emocionante momento de evangelização doando seus sábios conselhos. Vai ao ar transmitido ao vivo na TV Evangelizar e pela maior cadeia de rádios do Brasil.</desc>
+  </programme>
+  <programme start="20260606130000 +0000" stop="20260606130000 +0000" channel="246">
+    <title lang="pt">Em Casa</title>
+    <desc lang="pt">Em Casa com Adriana Arydes é um programa semanal pensado para toda família. Traz como pauta, entrevista com o convidado do dia, com temáticas cotidianas, como vida, família, trabalho, música, testemunhos e louvor.</desc>
+  </programme>
+  <programme start="20260606163000 +0000" stop="20260606170000 +0000" channel="246">
+    <title lang="pt">Conhecendo Igrejas</title>
+    <desc lang="pt">Conhecendo Igrejas traz a cada semana uma Igreja com suas peculiaridades e maravilhas. É um programa cultural e de turismo com informações diversas sobre as Igrejas do nosso Brasil, com entrevistas e detalhes sobre cada local visitado.</desc>
+  </programme>
+  <programme start="20260606200000 +0000" stop="20260606040000 +0000" channel="246">
+    <title lang="pt">Programação - TV Evangelizar</title>
+    <desc lang="pt">Programação em rede</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="249">
     <title lang="pt">Tenda TV ao Vivo</title>
     <desc lang="pt">Assista Tenda TV na Soul TV. A Programação da Família Brasileira.</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="259">
-    <title lang="pt">Coletiva TV ao Vivo</title>
-    <desc lang="pt">Assista Coletiva TV na Soul TV. Coletiva.tv – Onde o mercado te vê</desc>
+  <programme start="20260606030000 +0000" stop="20260606032400 +0000" channel="259">
+    <title lang="pt">Fala Mercado</title>
+    <desc lang="pt">Inovação, tendências, informação e muita opinião sobre o que acontece no ecossistema criativo. De olho nisso, essas são as premissas das conversas que temos com profissionais especialistas, que constroem o presente e o futuro da Comunicação gaúcha. Um espaço para, acima de tudo, falar. Quem trará as respostas? Descobriremos a cada novo episódio. Serão sempre dois convidados especialistas no assunto, sabatinados pela apresentadora Márcia Christofoli.</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="252">
     <title lang="pt">Rede Gramado ao Vivo</title>
@@ -912,17 +1646,93 @@
     <title lang="pt">TV Diário do Sertão ao Vivo</title>
     <desc lang="pt">Assista TV Diário do Sertão na Soul TV. A nossa TV.</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="224">
-    <title lang="pt">TV Alagoinha ao Vivo</title>
-    <desc lang="pt">Assista TV Alagoinha na Soul TV. TV Alagoinha ligada em você!</desc>
+  <programme start="20260606050000 +0000" stop="20260606063000 +0000" channel="224">
+    <title lang="pt">Mundial Tele Noticias</title>
+    <desc lang="pt">Mundial Tele Noticias</desc>
+  </programme>
+  <programme start="20260606063000 +0000" stop="20260606070000 +0000" channel="224">
+    <title lang="pt">Churrasqueadas</title>
+    <desc lang="pt">Churrasqueadas</desc>
+  </programme>
+  <programme start="20260606070000 +0000" stop="20260606090000 +0000" channel="224">
+    <title lang="pt">Sessão Retro</title>
+    <desc lang="pt">Sessão Retro</desc>
+  </programme>
+  <programme start="20260606090000 +0000" stop="20260606110000 +0000" channel="224">
+    <title lang="pt">Sessão Desenhos</title>
+    <desc lang="pt">Sessão Desenhos</desc>
+  </programme>
+  <programme start="20260606110000 +0000" stop="20260606040000 +0000" channel="224">
+    <title lang="pt">Programa Clip Mania</title>
+    <desc lang="pt">Programa Clip Mania</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="60">
     <title lang="pt">Tv Nordestina ao Vivo</title>
     <desc lang="pt">Assista Tv Nordestina na Soul TV. Arte e cultura com a cara do Nordeste.</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="257">
-    <title lang="pt">TV Marcheti ao Vivo</title>
-    <desc lang="pt">Assista TV Marcheti na Soul TV. Tv Marcheti a TV feita pra você</desc>
+  <programme start="20260606030000 +0000" stop="20260606031000 +0000" channel="257">
+    <title lang="pt">Minuto de Oração</title>
+    <desc lang="pt">Mensagens da Bíblia e Orações</desc>
+  </programme>
+  <programme start="20260606040000 +0000" stop="20260606060000 +0000" channel="257">
+    <title lang="pt">Manhã  kIDS</title>
+    <desc lang="pt">Desenhos animados antigos Clássicos</desc>
+  </programme>
+  <programme start="20260606060000 +0000" stop="20260606071100 +0000" channel="257">
+    <title lang="pt">Experiência de Deus - Pe.Reginaldo Manzotti</title>
+    <desc lang="pt">É um momento de orações e partilhar a palavra de Deus</desc>
+  </programme>
+  <programme start="20260606071100 +0000" stop="20260606074500 +0000" channel="257">
+    <title lang="pt">The Churras</title>
+    <desc lang="pt">The Churras traz receitas, dicas de preparo e curiosidades sobre essa paixão nacional que é o churrasco.</desc>
+  </programme>
+  <programme start="20260606083000 +0000" stop="20260606091500 +0000" channel="257">
+    <title lang="pt">Star Vídeos Clipe</title>
+    <desc lang="pt">Confira aqui os melhores clipes ,Programa cultural Com clipes de Artistas nacionais.</desc>
+  </programme>
+  <programme start="20260606093000 +0000" stop="20260606100000 +0000" channel="257">
+    <title lang="pt">Leo From Rio</title>
+    <desc lang="pt">Viagem Cultural , Leo apresenta dicas aos viajantes</desc>
+  </programme>
+  <programme start="20260606100000 +0000" stop="20260606104000 +0000" channel="257">
+    <title lang="pt">Afamados Da Pesca</title>
+    <desc lang="pt">Um programa que trata a pesca como uma relação entre o pescador, o peixe e o meio ambiente.</desc>
+  </programme>
+  <programme start="20260606110000 +0000" stop="20260606113000 +0000" channel="257">
+    <title lang="pt">Terço Jesus das Santas Chagas</title>
+    <desc lang="pt">Oração do Terço Jesus das Santas Chagas com o Padre Reginaldo Manzotti</desc>
+  </programme>
+  <programme start="20260606113000 +0000" stop="20260606132900 +0000" channel="257">
+    <title lang="pt">Cinema da Tarde</title>
+    <desc lang="pt">Filmes antigos clássicos , filmes Fan films e independentes.</desc>
+  </programme>
+  <programme start="20260606133000 +0000" stop="20260606140000 +0000" channel="257">
+    <title lang="pt">A História da Fama</title>
+    <desc lang="pt">A histórias de vida de  famosos do Brasil e do mundo</desc>
+  </programme>
+  <programme start="20260606140000 +0000" stop="20260606150000 +0000" channel="257">
+    <title lang="pt">PodCast Do Dorgi</title>
+    <desc lang="pt">Pod Cast com Bate-papos sinceros, convidados especiais e aquela resenha que só o Dorgi sabe fazer.</desc>
+  </programme>
+  <programme start="20260606150000 +0000" stop="20260606154500 +0000" channel="257">
+    <title lang="pt">Max Documentários</title>
+    <desc lang="pt">Vídeos e Documentários de animais e Turismo de Natureza.</desc>
+  </programme>
+  <programme start="20260606160000 +0000" stop="20260606170000 +0000" channel="257">
+    <title lang="pt">Sozinho em um Caiaque</title>
+    <desc lang="pt">Aventura no caiaque , lazer ,natureza e desfrutar de paisagens deslumbrantes</desc>
+  </programme>
+  <programme start="20260606170000 +0000" stop="20260606174500 +0000" channel="257">
+    <title lang="pt">Star Vídeos Clipe</title>
+    <desc lang="pt">Confira aqui os melhores clipes ,Programa cultural Com clipes de Artistas nacionais.</desc>
+  </programme>
+  <programme start="20260606180000 +0000" stop="20260606184500 +0000" channel="257">
+    <title lang="pt">É Hora Do Tik Tok</title>
+    <desc lang="pt">Vídeos do Tik Tok e da internet ,Comédia ,dancinhas .</desc>
+  </programme>
+  <programme start="20260606193000 +0000" stop="20260606030000 +0000" channel="257">
+    <title lang="pt">Cine Classic</title>
+    <desc lang="pt">Filmes clássicos e antigos , Faroeste, Fan films , e filmes independentes.</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="263">
     <title lang="pt">FMTV ao Vivo</title>
@@ -976,29 +1786,269 @@
     <title lang="pt">Conexão TV ao Vivo</title>
     <desc lang="pt">Seu novo canal de tv conectando o Paraná</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="301">
-    <title lang="pt">UMA TV ao Vivo</title>
-    <desc lang="pt">Assista UMA TV na Soul TV. Sou UMATV pra você</desc>
+  <programme start="20260606000000 +0000" stop="20260606235900 +0000" channel="301">
+    <title lang="pt">UNPLAY</title>
+    <desc lang="pt">Programa geek semanal na UMATV, que chega para mostrar os bastidores e apresentar todas as novidades do mundo geek e cultura pop (oriental e ocidental)</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="231">
-    <title lang="pt">Tv Nova Nordeste ao Vivo</title>
-    <desc lang="pt">Assista Tv Nova Nordeste na Soul TV. É Pernambuco no ar</desc>
+  <programme start="20260606010000 +0000" stop="20260606005900 +0000" channel="301">
+    <title lang="pt">UMA PLAYLIST</title>
+    <desc lang="pt">Faixa musical variada da UMA TV.</desc>
+  </programme>
+  <programme start="20260606020000 +0000" stop="20260606015900 +0000" channel="301">
+    <title lang="pt">FUNDO DO BAÚ</title>
+    <desc lang="pt">Com um tom intimista e envolvente, "Fundo do Baú" combina entrevistas emocionantes, curiosidades inéditas e momentos de surpresa, criando uma conexão especial entre o público e os convidados.</desc>
+  </programme>
+  <programme start="20260606030000 +0000" stop="20260606025900 +0000" channel="301">
+    <title lang="pt">ACHADINHOS DA UMA</title>
+    <desc lang="pt">Faixa de achadinhos e produtos na UMA</desc>
+  </programme>
+  <programme start="20260606040000 +0000" stop="20260606035900 +0000" channel="301">
+    <title lang="pt">DERICO CONVIDA</title>
+    <desc lang="pt">Derico Sciotti, músico multi-instrumentista e referência no cenário artístico brasileiro, reúne amigos e parceiros de seus 45 anos de estrada.</desc>
+  </programme>
+  <programme start="20260606050000 +0000" stop="20260606045900 +0000" channel="301">
+    <title lang="pt">UMA PLAYLIST</title>
+    <desc lang="pt">Faixa musical variada da UMA TV.</desc>
+  </programme>
+  <programme start="20260606060000 +0000" stop="20260606065900 +0000" channel="301">
+    <title lang="pt">É HORA DO ESPORTE</title>
+    <desc lang="pt">Faixa de programação dedicada a transmissão esportiva.</desc>
+  </programme>
+  <programme start="20260606080000 +0000" stop="20260606082900 +0000" channel="301">
+    <title lang="pt">É HORA DO ESPORTE</title>
+    <desc lang="pt">Faixa de programação dedicada a transmissão esportiva.</desc>
+  </programme>
+  <programme start="20260606100000 +0000" stop="20260606105900 +0000" channel="301">
+    <title lang="pt">DO BALACOBACO</title>
+    <desc lang="pt">Informações, variedades, jogos, prêmios, notícias e quadros de humor. Um programa feito pelo telespectador, ele indica o rumo e nós corremos atrás.</desc>
+  </programme>
+  <programme start="20260606120000 +0000" stop="20260606115900 +0000" channel="301">
+    <title lang="pt">GIRO DA VIT</title>
+    <desc lang="pt">Um giro pelas principais notícias do cenário nacional e internacional de forma leve, como se fôssemos amigos conversando na sala de casa.</desc>
+  </programme>
+  <programme start="20260606130000 +0000" stop="20260606122900 +0000" channel="301">
+    <title lang="pt">UMA PLAYLIST</title>
+    <desc lang="pt">Faixa musical variada da UMA TV.</desc>
+  </programme>
+  <programme start="20260606133000 +0000" stop="20260606125900 +0000" channel="301">
+    <title lang="pt">ACHADINHOS DA UMA</title>
+    <desc lang="pt">Faixa de achadinhos e produtos na UMA</desc>
+  </programme>
+  <programme start="20260606140000 +0000" stop="20260606135900 +0000" channel="301">
+    <title lang="pt">VASCOOLHANDO</title>
+    <desc lang="pt">Um programa de entrevistas independente onde André Vasco recebe um convidado em sua casa, ou vai até o convidado e, ao seu lado, vai “Vascoolhando” enquanto a entrevista se desenrola.</desc>
+  </programme>
+  <programme start="20260606150000 +0000" stop="20260606145900 +0000" channel="301">
+    <title lang="pt">CONTAGEM REGRESIVA</title>
+    <desc lang="pt">Zé transforma o tempo limitado em uma experiência intensa e divertida, mergulhando fundo na vida e nas carreiras de personalidades marcantes.</desc>
+  </programme>
+  <programme start="20260606160000 +0000" stop="20260606165900 +0000" channel="301">
+    <title lang="pt">É HORA DO ESPORTE</title>
+    <desc lang="pt">Faixa de programação dedicada a transmissão esportiva.</desc>
+  </programme>
+  <programme start="20260606180000 +0000" stop="20260606185900 +0000" channel="301">
+    <title lang="pt">DO BALACOBACO</title>
+    <desc lang="pt">Informações, variedades, jogos, prêmios, notícias e quadros de humor. Um programa feito pelo telespectador, ele indica o rumo e nós corremos atrás.</desc>
+  </programme>
+  <programme start="20260606200000 +0000" stop="20260606195900 +0000" channel="301">
+    <title lang="pt">ACHADINHOS DA UMA</title>
+    <desc lang="pt">Faixa de achadinhos e produtos na UMA</desc>
+  </programme>
+  <programme start="20260606210000 +0000" stop="20260606215900 +0000" channel="301">
+    <title lang="pt">É HORA DO ESPORTE</title>
+    <desc lang="pt">Faixa de programação dedicada a transmissão esportiva.</desc>
+  </programme>
+  <programme start="20260606230000 +0000" stop="20260606225900 +0000" channel="301">
+    <title lang="pt">DERICO CONVIDA</title>
+    <desc lang="pt">Derico Sciotti, músico multi-instrumentista e referência no cenário artístico brasileiro, reúne amigos e parceiros de seus 45 anos de estrada.</desc>
+  </programme>
+  <programme start="20260606010000 +0000" stop="20260606040000 +0000" channel="231">
+    <title lang="pt">Faixa Familia</title>
+    <desc lang="pt">Programação inspiradora que oferece orientação reflexões sobre a vida, promovendo valores positivos e a conexão com o divino</desc>
+  </programme>
+  <programme start="20260606050000 +0000" stop="20260606043000 +0000" channel="231">
+    <title lang="pt">Nova.DOC</title>
+    <desc lang="pt">Faixa de documentários</desc>
+  </programme>
+  <programme start="20260606080000 +0000" stop="20260606090000 +0000" channel="231">
+    <title lang="pt">Faixa Familia</title>
+    <desc lang="pt">Programação inspiradora que oferece orientação reflexões sobre a vida, promovendo valores positivos e a conexão com o divino</desc>
+  </programme>
+  <programme start="20260606120000 +0000" stop="20260606130000 +0000" channel="231">
+    <title lang="pt">Tarde Legal - Destaques da Semana</title>
+    <desc lang="pt">No final de semana você confere tudo o que rolou de melhor no palco do Tarde Legal.</desc>
+  </programme>
+  <programme start="20260606133000 +0000" stop="20260606143000 +0000" channel="231">
+    <title lang="pt">Cantos & Versos - com Tony Oliveira e Marcos Passos</title>
+    <desc lang="pt">Espaço para o cancioneiro, poesia e tradições nordestinas. Apresentando poetas, contadores de “causos”, cantores e músicos que mostram sua arte.</desc>
+  </programme>
+  <programme start="20260606163000 +0000" stop="20260606160000 +0000" channel="231">
+    <title lang="pt">Tá de Boa - com Cláudia Barbosa</title>
+    <desc lang="pt">O melhor da nossa cultura, entrevistas, entretenimento, dicas de saúde e muita música com apresentação de Cláudia Barbosa.</desc>
+  </programme>
+  <programme start="20260606170000 +0000" stop="20260606200000 +0000" channel="231">
+    <title lang="pt">Programação TV Cultura</title>
+    <desc lang="pt">Programação TV Cultura</desc>
+  </programme>
+  <programme start="20260606170000 +0000" stop="20260606170000 +0000" channel="231">
+    <title lang="pt">Persona</title>
+    <desc lang="pt">Conheça os aspectos da vida pessoal e da carreira de personalidades do teatro, bem como as suas impressões sobre o ofício. As entrevistas são conduzidas por pessoas ligadas ao artista e ainda uma plateia formada por estudantes e jovens atores.</desc>
+  </programme>
+  <programme start="20260606190000 +0000" stop="20260606200000 +0000" channel="231">
+    <title lang="pt">Cine Cult</title>
+    <desc lang="pt">Cine Cult</desc>
+  </programme>
+  <programme start="20260606221500 +0000" stop="20260606221500 +0000" channel="231">
+    <title lang="pt">Jornal da Cultura</title>
+    <desc lang="pt">O Jornal da Cultura apresenta os principais fatos do Brasil e do mundo, sempre com comentários de especialistas.</desc>
+  </programme>
+  <programme start="20260606231500 +0000" stop="20260606000000 +0000" channel="231">
+    <title lang="pt">Programação TV Cultura</title>
+    <desc lang="pt">Programação TV Cultura</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="303">
     <title lang="pt">Vambora Channel ao Vivo</title>
     <desc lang="pt">Assista Vambora Channel na Soul TV. O Mundo ao seu alcance.</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="284">
-    <title lang="pt">TV + Pet ao Vivo</title>
-    <desc lang="pt">Assista TV + Pet na Soul TV. O mundo pet na sua tela</desc>
+  <programme start="20260606040000 +0000" stop="20260606040000 +0000" channel="284">
+    <title lang="pt">PET KIDS</title>
+    <desc lang="pt">Desenhos animados para toda familia.</desc>
+  </programme>
+  <programme start="20260606053000 +0000" stop="20260606050000 +0000" channel="284">
+    <title lang="pt">TV PET SHOW</title>
+    <desc lang="pt">Programa que explora a diversidade de bichos e raças, apresentando curiosidades e soluções éticas para questões do dia a dia.</desc>
+  </programme>
+  <programme start="20260606060000 +0000" stop="20260606060000 +0000" channel="284">
+    <title lang="pt">MIAUCAST</title>
+    <desc lang="pt">MIAUCAST</desc>
+  </programme>
+  <programme start="20260606070000 +0000" stop="20260606070000 +0000" channel="284">
+    <title lang="pt">ERICK'S GROOMER RACE</title>
+    <desc lang="pt">É um reality show emocionante.
+O programa acompanha competidores que se enfrentam em desafios de tosa e cuidados com animais, mostrando suas habilidades e criatividade.</desc>
+  </programme>
+  <programme start="20260606080000 +0000" stop="20260606073000 +0000" channel="284">
+    <title lang="pt">MEU NEGÓCIO PET</title>
+    <desc lang="pt">MEU NEGÓCIO PET</desc>
+  </programme>
+  <programme start="20260606090000 +0000" stop="20260606090000 +0000" channel="284">
+    <title lang="pt">PAPO PET PODCAST</title>
+    <desc lang="pt">Diogo Groomer e Edilson Sonsin discutem tendências em alimentos, brinquedos e cuidados. Um podcast com especialistas e entusiastas do mundo animal.</desc>
+  </programme>
+  <programme start="20260606100000 +0000" stop="20260606100000 +0000" channel="284">
+    <title lang="pt">PETDOC CAST</title>
+    <desc lang="pt">Veterinárias Patricia e Rebeca compartilham dicas simples e objetivas para cuidados responsáveis com pets, no Pet Doc Cast.</desc>
+  </programme>
+  <programme start="20260606110000 +0000" stop="20260606110000 +0000" channel="284">
+    <title lang="pt">BICHO GENTE POD CAST</title>
+    <desc lang="pt">Um podcast descontraído e informativo sobre o novo conceito de família multiespécie.</desc>
+  </programme>
+  <programme start="20260606120000 +0000" stop="20260606120000 +0000" channel="284">
+    <title lang="pt">PET É QUEM POD</title>
+    <desc lang="pt">PET É QUEM POD</desc>
+  </programme>
+  <programme start="20260606130000 +0000" stop="20260606123000 +0000" channel="284">
+    <title lang="pt">PET VIDA CAST</title>
+    <desc lang="pt">Pet Vida é um programa dedicado à vida animal, oferecendo informações, dicas diárias, entrevistas com profissionais e novidades para todos os tipos de pets, atendendo às necessidades dos tutores.</desc>
+  </programme>
+  <programme start="20260606133000 +0000" stop="20260606123500 +0000" channel="284">
+    <title lang="pt">TIO PETISCO (DICAS PET)</title>
+    <desc lang="pt">Compartilha 15 anos de experiência, oferecendo orientação especializada para uma convivência harmoniosa e saudável entre pets e tutores.</desc>
+  </programme>
+  <programme start="20260606133500 +0000" stop="20260606130000 +0000" channel="284">
+    <title lang="pt">MEU NEGÓCIO PET</title>
+    <desc lang="pt">MEU NEGÓCIO PET</desc>
+  </programme>
+  <programme start="20260606140000 +0000" stop="20260606133000 +0000" channel="284">
+    <title lang="pt">CONSCIÊNCIA PET</title>
+    <desc lang="pt">Este é o programa perfeito para você e seu PETfilho. Aprenda mais sobre sua relação com esses queridos animais que também fazem parte de sua família. Dicas, orientações, questões relacionadas à saúde física e energética.</desc>
+  </programme>
+  <programme start="20260606143000 +0000" stop="20260606140000 +0000" channel="284">
+    <title lang="pt">TV PET SHOW</title>
+    <desc lang="pt">Programa que explora a diversidade de bichos e raças, apresentando curiosidades e soluções éticas para questões do dia a dia.</desc>
+  </programme>
+  <programme start="20260606150000 +0000" stop="20260606150000 +0000" channel="284">
+    <title lang="pt">MIAUCAST</title>
+    <desc lang="pt">MIAUCAST</desc>
+  </programme>
+  <programme start="20260606160000 +0000" stop="20260606160000 +0000" channel="284">
+    <title lang="pt">TÁ BOMBANDO (VÍDEOS PET)</title>
+    <desc lang="pt">Uma série de vídeos que estão bombando na internet, apresentada de forma divertida e interativa, 
+com a participação dos telespectadores.</desc>
+  </programme>
+  <programme start="20260606170000 +0000" stop="20260606164000 +0000" channel="284">
+    <title lang="pt">ERICK'S GROOMER RACE</title>
+    <desc lang="pt">É um reality show emocionante.
+O programa acompanha competidores que se enfrentam em desafios de tosa e cuidados com animais, mostrando suas habilidades e criatividade.</desc>
+  </programme>
+  <programme start="20260606174000 +0000" stop="20260606170000 +0000" channel="284">
+    <title lang="pt">TIO PETISCO (DICAS PET)</title>
+    <desc lang="pt">Compartilha 15 anos de experiência, oferecendo orientação especializada para uma convivência harmoniosa e saudável entre pets e tutores.</desc>
+  </programme>
+  <programme start="20260606180000 +0000" stop="20260606173000 +0000" channel="284">
+    <title lang="pt">MEU NEGÓCIO PET</title>
+    <desc lang="pt">MEU NEGÓCIO PET</desc>
+  </programme>
+  <programme start="20260606183000 +0000" stop="20260606173500 +0000" channel="284">
+    <title lang="pt">DICA ANIMAL</title>
+    <desc lang="pt">DICA ANIMAL</desc>
+  </programme>
+  <programme start="20260606183500 +0000" stop="20260606180000 +0000" channel="284">
+    <title lang="pt">TÁ BOMBANDO (VÍDEOS PET)</title>
+    <desc lang="pt">Uma série de vídeos que estão bombando na internet, apresentada de forma divertida e interativa, 
+com a participação dos telespectadores.</desc>
+  </programme>
+  <programme start="20260606190000 +0000" stop="20260606190000 +0000" channel="284">
+    <title lang="pt">PETDOC CAST</title>
+    <desc lang="pt">Veterinárias Patricia e Rebeca compartilham dicas simples e objetivas para cuidados responsáveis com pets, no Pet Doc Cast.</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="83">
     <title lang="pt">Nova TV Agrotour ao Vivo</title>
     <desc lang="pt">Assista Nova TV Agrotour na Soul TV. Nova TV Agrotour, bem mais perto de você</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="286">
-    <title lang="pt">RIT TV ao Vivo</title>
-    <desc lang="pt">Assista RIT TV na Soul TV. Há + De 20 anos fazendo a diferença</desc>
+  <programme start="20260606013000 +0000" stop="20260606015500 +0000" channel="286">
+    <title lang="pt">Curso Fé</title>
+    <desc lang="pt">O Missionário R.R. Soares ministra lições que ajudam a compreender a fé – assunto que para muitos ainda é um mistério, instruindo com base na Palavra de Deus como deixar de lado a fé da sorte para praticar a fé real!</desc>
+  </programme>
+  <programme start="20260606015500 +0000" stop="20260606020000 +0000" channel="286">
+    <title lang="pt">Semeando a Fé</title>
+    <desc lang="pt">Mensagens que ensinam a desfrutar das bênçãos de Deus, com o Missionário R.R. Soares.</desc>
+  </programme>
+  <programme start="20260606071000 +0000" stop="20260606072000 +0000" channel="286">
+    <title lang="pt">Acontece Agora</title>
+    <desc lang="pt">Notícias do Brasil e do mundo!</desc>
+  </programme>
+  <programme start="20260606072000 +0000" stop="20260606072500 +0000" channel="286">
+    <title lang="pt">Semeando a Fé</title>
+    <desc lang="pt">Mensagens que ensinam a desfrutar das bênçãos de Deus, com o Missionário R.R. Soares.</desc>
+  </programme>
+  <programme start="20260606080500 +0000" stop="20260606081500 +0000" channel="286">
+    <title lang="pt">Homens que Vencem</title>
+    <desc lang="pt">Este programa, tem como objetivo promover a atenção e o cuidado individual aos homens dentro da igreja, ensinando e levando cada um a entender e responsabilizar-se pelo seu papel junto à sociedade e à família.</desc>
+  </programme>
+  <programme start="20260606081500 +0000" stop="20260606082500 +0000" channel="286">
+    <title lang="pt">Boletim do Esporte</title>
+    <desc lang="pt">Notícias do Brasil e do mundo!</desc>
+  </programme>
+  <programme start="20260606082500 +0000" stop="20260606083000 +0000" channel="286">
+    <title lang="pt">Semeando a Fé</title>
+    <desc lang="pt">Mensagens que ensinam a desfrutar das bênçãos de Deus, com o Missionário R.R. Soares.</desc>
+  </programme>
+  <programme start="20260606113000 +0000" stop="20260606120000 +0000" channel="286">
+    <title lang="pt">Curso Fé</title>
+    <desc lang="pt">O Missionário R.R. Soares ministra lições que ajudam a compreender a fé – assunto que para muitos ainda é um mistério, instruindo com base na Palavra de Deus como deixar de lado a fé da sorte para praticar a fé real!</desc>
+  </programme>
+  <programme start="20260606120000 +0000" stop="20260606120500 +0000" channel="286">
+    <title lang="pt">Semeando a Fé</title>
+    <desc lang="pt">Mensagens que ensinam a desfrutar das bênçãos de Deus, com o Missionário R.R. Soares.</desc>
+  </programme>
+  <programme start="20260606200000 +0000" stop="20260606203000 +0000" channel="286">
+    <title lang="pt">Novela da Vida Real</title>
+    <desc lang="pt">A Novela da Vida Real Especial, conta histórias reais de pessoas que alcançaram verdadeiros milagres.</desc>
+  </programme>
+  <programme start="20260606215000 +0000" stop="20260606220000 +0000" channel="286">
+    <title lang="pt">Agenda dos Pastores</title>
+    <desc lang="pt">Programa apresentador por pastores que clamam ao Senhor por todo Brasil</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="313">
     <title lang="pt">SBC ao Vivo</title>
@@ -1032,16 +2082,16 @@
     <title lang="pt">Peru Channel ao Vivo</title>
     <desc lang="pt">Assista Peru Channel na Soul TV. Um Canal Peruano feito no Brasil para o Mundo Inteiro.</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="247">
-    <title lang="pt">DM Kids TV ao Vivo</title>
-    <desc lang="pt">Assista DM Kids TV na Soul TV. Entretenimiento y Full Diversión para los más Pequeños de casa</desc>
+  <programme start="20260606130000 +0000" stop="20260606130000 +0000" channel="247">
+    <title lang="pt">DAVID Y SUS AMIGOS</title>
+    <desc lang="pt">Aprendizaje y canciones</desc>
   </programme>
   <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="142">
     <title lang="pt">BH TV ao Vivo</title>
     <desc lang="pt">Assista BH TV na Soul TV. Nuestro canal</desc>
   </programme>
-  <programme start="20260606000000 +0000" stop="20260607000000 +0000" channel="209">
-    <title lang="pt">Viva e Eduque ao Vivo</title>
-    <desc lang="pt">Assista Viva e Eduque na Soul TV. Motivando vidas através da educação e cultura.</desc>
+  <programme start="20260606163900 +0000" stop="20260606173800 +0000" channel="209">
+    <title lang="pt">Politicas Públicas para a Humanização</title>
+    <desc lang="pt">Politicas Públicas para a Humanização</desc>
   </programme>
 </tv>
