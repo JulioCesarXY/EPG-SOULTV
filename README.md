@@ -4,7 +4,7 @@
 [![Automated via GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![IPTV Compatible](https://img.shields.io/badge/Format-M3U8_%2F_XMLTV-orange)](https://en.wikipedia.org/wiki/M3U)
 
-Este repositório contém uma esteira automatizada de integração e processamento de dados para a plataforma Soul TV. Através de engenharia reversa na API do ecossistema, o projeto captura dinamicamente a grade de mais de 200 canais de transmissão linear ao vivo, higieniza os metadados, divide-os por categorias e gera guias de programação estruturados diariamente.
+Este repositório contém uma esteira automatizada de integração e processamento de dados para a plataforma Soul TV. Através de engenharia reversa na API do ecossistema, o projeto captura dinamicamente a grade de mais de 149 canais de transmissão linear ao vivo, higieniza os metadados, divide-os por categorias e gera guias de programação estruturados diariamente.
 
 ---
 
