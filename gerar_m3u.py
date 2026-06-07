@@ -1,13 +1,9 @@
 import requests
 import json
 
-# URL da API mestre da Soul TV
 URL_MASTER = "https://cms.soultv.com.br/v1/brand?country=US&language=pt&platform=web"
-
-# Link definitivo do seu EPG no GitHub que será injetado no topo da lista
 LINK_EPG_GITHUB = "https://raw.githubusercontent.com/JulioCesarXY/EPG-SOULTV/refs/heads/main/soul_tv_guia.xml"
 
-# Clonagem exata dos cabeçalhos que funcionam na API
 headers = {
     "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36",
     "Accept": "application/json, text/plain, */*",
@@ -20,24 +16,11 @@ headers = {
     "Referer": "https://www.soultv.com.br/"
 }
 
-# Dicionário de tradução das categorias obtidas da API
 MAPA_CATEGORIAS = {
-    "1": "Agronegócios",
-    "2": "Cultura",
-    "3": "Esportes / Games",
-    "4": "Entretenimento",
-    "5": "Gastronomia",
-    "6": "Internacional",
-    "8": "Minas",
-    "9": "Música",
-    "10": "Moda / Beleza",
-    "11": "Religioso",
-    "12": "Regionais",
-    "13": "Shopping",
-    "14": "Variedades",
-    "15": "Viagens",
-    "16": "Filmes / Séries",
-    "17": "Pet"
+    "1": "Agronegócios", "2": "Cultura", "3": "Esportes / Games", "4": "Entretenimento",
+    "5": "Gastronomia", "6": "Internacional", "8": "Minas", "9": "Música",
+    "10": "Moda / Beleza", "11": "Religioso", "12": "Regionais", "13": "Shopping",
+    "14": "Variedades", "15": "Viagens", "16": "Filmes / Séries", "17": "Pet"
 }
 
 try:
@@ -47,16 +30,14 @@ try:
     if response.status_code == 200:
         dados_plataforma = response.json()
         
-        # Salva o dump JSON mestre que o script de EPG vai ler depois
         with open("soul_tv_api_mestre.json", "w", encoding="utf-8") as f:
             json.dump(dados_plataforma, f, indent=4, ensure_ascii=False)
-        print("[OK] Resposta bruta salva em 'soul_tv_api_mestre.json'")
         
         lista_canais = dados_plataforma.get("data", [])
         
         if lista_canais:
-            # INTERVENÇÃO AQUI: Injeta o x-tvg-url apontando para o seu repositório no topo da lista
-            m3u_linhas = [f'#EXTM3U x-tvg-url="{LINK_EPG_GITHUB}"\n']
+            # 1. Dicionário para separar os canais dinamicamente por nome de categoria
+            canais_por_categoria = {}
             contagem = 0
             
             for canal in lista_canais:
@@ -66,31 +47,45 @@ try:
                 stream_url = canal.get("url_live_streaming")
                 categorias_canal = canal.get("category", [])
                 
-                # Só processa canais com transmissão ativa
                 if nome and stream_url:
-                    # Mapeia o grupo do canal (excluindo a tag global 'ALL')
+                    # Identifica a categoria (ignorando 'ALL')
                     nome_categoria = "Variedades"
                     for cat_id in categorias_canal:
                         if cat_id != "ALL" and cat_id in MAPA_CATEGORIAS:
                             nome_categoria = MAPA_CATEGORIAS[cat_id]
                             break
                     
-                    # Cria a linha estruturada com ID do EPG (tvg-id) combinando com o XML
-                    m3u_linhas.append(
-                        f'#EXTINF:-1 tvg-id="{id_tv}" tvg-logo="{logo}" group-title="{nome_categoria}",{nome}\n'
-                    )
-                    m3u_linhas.append(f'{stream_url}\n')
+                    # Inicializa a lista da categoria no dicionário caso não exista
+                    if nome_categoria not in canais_por_categoria:
+                        canais_por_categoria[nome_categoria] = []
+                        
+                    # Guarda os dados estruturados do canal na sua respectiva gaveta
+                    canais_por_categoria[nome_categoria].append({
+                        "id": id_tv,
+                        "logo": logo,
+                        "nome": nome,
+                        "url": stream_url
+                    })
                     contagem += 1
             
-            # Grava a lista M3U final categorizada e linkada com o EPG
+            # 2. Monta o arquivo M3U escrevendo categoria por categoria de forma sequencial
+            m3u_linhas = [f'#EXTM3U x-tvg-url="{LINK_EPG_GITHUB}"\n']
+            
+            # Ordena as chaves alfabeticamente para as pastas ficarem organizadas de A-Z
+            for categoria in sorted(canais_por_categoria.keys()):
+                print(f" -> Agrupando bloco: {categoria} ({len(canais_por_categoria[categoria])} canais)")
+                for c in canais_por_categoria[categoria]:
+                    m3u_linhas.append(f'#EXTINF:-1 tvg-id="{c["id"]}" tvg-logo="{c["logo"]}" group-title="{categoria}",{c["nome"]}\n')
+                    m3u_linhas.append(f'{c["url"]}\n')
+            
             with open("soul_tv_categorizado.m3u", "w", encoding="utf-8") as f_m3u:
                 f_m3u.writelines(m3u_linhas)
                 
-            print(f"\n[SUCESSO] Lista 'soul_tv_categorizado.m3u' gerada com {contagem} canais e vinculada ao EPG!")
+            print(f"\n[SUCESSO] Lista ordenada e dividida com {contagem} canais com sucesso!")
         else:
-            print("Erro: A API retornou sucesso, mas a lista de canais veio vazia.")
+            print("Erro: A lista de canais veio vazia.")
     else:
-        print(f"Erro {response.status_code} ao bater na API da plataforma.")
+        print(f"Erro {response.status_code} na API.")
 
 except Exception as e:
-    print(f"Erro crítico durante a execução do M3U: {e}")
+    print(f"Erro crítico: {e}")
