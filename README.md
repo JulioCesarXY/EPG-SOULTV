@@ -1,5 +1,5 @@
 # 📺 Soul TV API Integration & Automated EPG Pipeline
-
+[![Atualizar M3U e EPG ](https://github.com/JulioCesarXY/EPG-SOULTV/actions/workflows/atualizar_listas.yml/badge.svg)](https://github.com/JulioCesarXY/EPG-SOULTV/actions/workflows/atualizar_listas.yml)
 [![Python Pipeline](https://img.shields.io/badge/Pipeline-Python_3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Automated via GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![IPTV Compatible](https://img.shields.io/badge/Format-M3U8_%2F_XMLTV-orange)](https://en.wikipedia.org/wiki/M3U)
