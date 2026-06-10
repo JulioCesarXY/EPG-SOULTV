@@ -108,7 +108,7 @@ https://cdn-tiva-stmv8-samcast-com-br.smartbit.co/jcbrasil7363/jcbrasil7363/play
 #EXTINF:-1 tvg-id="115" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_YOUTUBE_100100px_ZfxeqjJ.png" group-title="Minas",AG Tv
 https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
 #EXTINF:-1 tvg-id="91" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/tvc-correiodoimbe_100x100.png" group-title="Minas",TV Correio do Imbé
-https://cdn-tiva-srv6-zcast-com-br.smartbit.co/tvcorreio/tvcorreio/playlist.m3u8
+https://srv2.tvmais.net.br/hls/tvcorreio/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/VRT_LOGO_BRANCO-01_baixa.png" group-title="Minas",VRT Channel
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="158" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TV%C3%ADdeoNews_logo_oficial_reduz.png" group-title="Minas",TVídeoNews
@@ -238,7 +238,7 @@ https://cdn-tiva-stmv-jnbhost-com-br.smartbit.co/tvalagoinha/tvalagoinha/playlis
 #EXTINF:-1 tvg-id="60" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TV_Nordestina_logo_100x100.png" group-title="Regionais",Tv Nordestina
 https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8
 #EXTINF:-1 tvg-id="285" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TIPO__JORNAL.png" group-title="Regionais",TV O Repórter
-https://pop.uniquetv.com.br/tvoreporter/video.m3u8
+https://video11.logicahost.com.br/jornaloreporter/jornaloreporter/playlist.m3u8
 #EXTINF:-1 tvg-id="231" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO-PRATA.png" group-title="Regionais",Tv Nova Nordeste
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
 #EXTINF:-1 tvg-id="28" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/tvpampa-logo3.png" group-title="Regionais",TV PAMPA
