@@ -38,8 +38,8 @@ jobs:
     # 6. Faz o commit das atualizações e empurra de volta para o repositório
     - name: Subir arquivos atualizados para o GitHub
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
+        git config --local user.email "104462712+JulioCesarXY@users.noreply.github.com"
+        git config --local user.name "JulioCesarXY"
         git add soul_tv_api_mestre.json soul_tv_categorizado.m3u soul_tv_guia.xml
         git commit -m "Automação: Lista M3U e EPG atualizados ✅" || echo "Nenhuma alteração detectada"
         git push
