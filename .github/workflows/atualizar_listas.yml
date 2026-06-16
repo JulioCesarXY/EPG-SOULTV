@@ -1,4 +1,4 @@
-name: "Atualizar M3U e EPG Diariamente"
+name: "Atualizar M3U e EPG"
 
 on:
   schedule:
