@@ -40,7 +40,7 @@ https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/playlist.m3u8
 #EXTINF:-1 tvg-id="245" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/rede_brasil_MARCA_100x100.png" group-title="Entretenimento",Rede Brasil
 https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redebrasiloficial/redebrasiloficial/playlist.m3u8
 #EXTINF:-1 tvg-id="214" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TVClube_100x100.png" group-title="Entretenimento",TV Clube
-https://streaming.cloudecast.com/hls/rederecon/index.m3u8
+https://isaocorp.cloudecast.com/recon/index.m3u8
 #EXTINF:-1 tvg-id="240" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/S%C3%A9ries_Classic_70_Channel_100x100.png" group-title="Entretenimento",Séries Classic
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
 #EXTINF:-1 tvg-id="279" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO-REPUBLIC-BRANCO-100x100_2.png" group-title="Entretenimento",Republic
@@ -190,7 +190,7 @@ https://cdn-tiva-video04-logicahost-com-br.smartbit.co/tvnovaweb/tvnovaweb/playl
 #EXTINF:-1 tvg-id="179" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TVITAPE_200x200.png" group-title="Regionais",TV Itapê
 https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-id="177" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TVV_100px.png" group-title="Regionais",TV Votorantim
-https://streamserver.streamingdevideo.com.br/8058/8058/playlist.m3u8
+https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8
 #EXTINF:-1 tvg-id="154" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Extremo_Oriental_iPWitif.png" group-title="Regionais",Extremo Oriental TV
 https://cdn-tiva-video05-logicahost-com-br.smartbit.co/extremotv/extremotv/playlist.m3u8
 #EXTINF:-1 tvg-id="176" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TVAMPLITUDEJUINA_2025_100X100.png" group-title="Regionais",Tv Amplitude Juína
