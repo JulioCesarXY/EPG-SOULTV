@@ -223,7 +223,7 @@ https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/p
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="221" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_POA_Streaming_100_px.png" group-title="Regionais",POA Streaming TV
 https://cdn-tiva-video01-logicahost-com-br.smartbit.co/poastreaming/poastreaming/playlist.m3u8
-#EXTINF:-1 tvg-id="265" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_100x100_DXc2ejJ.png" group-title="Regionais",Vivax
+#EXTINF:-1 tvg-id="265" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_VIVAX_100x100.png" group-title="Regionais",Vivax
 https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="249" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/PAG_02_-_LOGO_100X100.png" group-title="Regionais",Tenda TV
 https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8

@@ -4251,8 +4251,8 @@
         {
             "id": 265,
             "name": "Vivax",
-            "image": "https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_100x100_DXc2ejJ.png",
-            "image2": "https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_100x100_37aA1W8.png",
+            "image": "https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_VIVAX_100x100.png",
+            "image2": "https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_VIVAX_100x100_UmLccOl.png",
             "logo_height": 100,
             "logo_width": 100,
             "logo_position_y": -300,
@@ -4262,7 +4262,7 @@
             "video_position_x": 0,
             "video_position_y": 0,
             "type_brand": null,
-            "background_image": "https://storage.googleapis.com/soultv-prod-media/media/brand/img/web/265/265_img_bg_image_1280x720_big.jpg",
+            "background_image": "https://storage.googleapis.com/soultv-prod-media/media/brand/img/web/265/img_background_image_all_v3.jpg",
             "last_video": "",
             "main_video_height": 0,
             "main_video_width": 0,
@@ -4281,9 +4281,9 @@
                 "ALL",
                 "12"
             ],
-            "background_image_web": "https://storage.googleapis.com/soultv-prod-media/media/brand/img/web/265/265_img_bg_image_293x165_small.jpg",
-            "background_image_medium": "https://storage.googleapis.com/soultv-prod-media/media/brand/img/web/265/265_img_bg_image_420x234_medium.jpg",
-            "background_image_all": "https://storage.googleapis.com/soultv-prod-media/media/brand/img/web/265/265_img_bg_image_1280x720_big.jpg",
+            "background_image_web": "https://storage.googleapis.com/soultv-prod-media/media/brand/img/web/265/img_background_image_web_v3.jpg",
+            "background_image_medium": "https://storage.googleapis.com/soultv-prod-media/media/brand/img/web/265/img_background_image_medium_v3.jpg",
+            "background_image_all": "https://storage.googleapis.com/soultv-prod-media/media/brand/img/web/265/img_background_image_all_v3.jpg",
             "title": "Vivax - A TV da Familia",
             "is_like": false,
             "is_subscribed": false
