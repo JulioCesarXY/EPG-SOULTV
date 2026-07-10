@@ -39,7 +39,7 @@ https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvmon/tvmon/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/playlist.m3u8
 #EXTINF:-1 tvg-id="245" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/rede_brasil_MARCA_100x100.png" group-title="Entretenimento",Rede Brasil
 https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redebrasiloficial/redebrasiloficial/playlist.m3u8
-#EXTINF:-1 tvg-id="214" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TVClube_100x100.png" group-title="Entretenimento",TV Clube
+#EXTINF:-1 tvg-id="214" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TV_Clube_Brasil_100x100.png" group-title="Entretenimento",TV Clube
 https://stream.ecast.com.br/jonas-silva/index.m3u8
 #EXTINF:-1 tvg-id="240" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/S%C3%A9ries_Classic_70_Channel_100x100.png" group-title="Entretenimento",Séries Classic
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
