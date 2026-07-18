@@ -242,7 +242,7 @@ https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabilioj
 #EXTINF:-1 tvg-id="285" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TIPO__JORNAL.png" group-title="Regionais",TV O Repórter
 https://video11.logicahost.com.br/jornaloreporter/jornaloreporter/playlist.m3u8
 #EXTINF:-1 tvg-id="231" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO-PRATA.png" group-title="Regionais",Tv Nova Nordeste
-https://acesso.ecast.site:3675/live/novatvlive.m3u8
+https://stream.ecast.com.br/nova-tv/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/tvpampa-logo3.png" group-title="Regionais",TV PAMPA
 https://cdn-tiva-video04-logicahost-com-br.smartbit.co/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-id="251" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO-MASPER-VERTICAL_100x100.png" group-title="Regionais",Masper TV

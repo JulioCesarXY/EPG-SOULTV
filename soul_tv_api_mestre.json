@@ -5389,7 +5389,7 @@
             "main_video_position_x": 0,
             "main_video_position_y": 0,
             "is_select_live_tv": true,
-            "url_live_streaming": "https://acesso.ecast.site:3675/live/novatvlive.m3u8",
+            "url_live_streaming": "https://stream.ecast.com.br/nova-tv/index.m3u8",
             "type_mode": "c",
             "description": "Assista Tv Nova Nordeste na Soul TV. É Pernambuco no ar",
             "pos": 29.0,
