@@ -3469,7 +3469,7 @@
             "main_video_position_x": 0,
             "main_video_position_y": 0,
             "is_select_live_tv": true,
-            "url_live_streaming": "https://vezatv.mediastreaming.com.br/vezatv/live.stream/playlist.m3u8",
+            "url_live_streaming": "https://vezatv.cdn.cportal.com.br/live/stream.m3u8",
             "type_mode": "c",
             "description": "Assista Veza TV na Soul TV. ENJOY THE JOURNEY",
             "pos": 29.0,
