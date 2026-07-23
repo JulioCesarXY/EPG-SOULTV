@@ -71,12 +71,14 @@ https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/vgstv/index.m3u8
 https://stmv1.transmissaodigital.com/tvatitudenew/tvatitudenew/playlist.m3u8
 #EXTINF:-1 tvg-id="74" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_istv_png.png" group-title="Filmes / Séries",ISTV
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/playlist.m3u8
+#EXTINF:-1 tvg-id="347" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_so_marca_final_1.jpg" group-title="Filmes / Séries",TV Protagonistas
+https://Stmv1.samcast.com.br/tvprotagonistasdo2603/tvprotagonistasdo2603/playlist.m3u8
 #EXTINF:-1 tvg-id="346" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_METROPOLES_FUDO_VERMELHO_100x100.png" group-title="Filmes / Séries",TV METROPOLES
 https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8
-#EXTINF:-1 tvg-id="345" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/24_horas_tv_SOUL_TV.png" group-title="Filmes / Séries",TV 24 HORAS
-https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8
 #EXTINF:-1 tvg-id="233" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logotipo_100x100_no_formato.png" group-title="Filmes / Séries",Play TV
 https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/playtv/index.m3u8
+#EXTINF:-1 tvg-id="345" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/24_horas_tv_SOUL_TV.png" group-title="Filmes / Séries",TV 24 HORAS
+https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8
 #EXTINF:-1 tvg-id="163" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_PNG_DIMENS%C3%A2O_100X100_-_GLN_TV_reduz_zKzqMEP.png" group-title="Filmes / Séries",GLN TV
 https://cdn-tiva-stmv8-samcast-com-br.smartbit.co/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1 tvg-id="105" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvsonata.png" group-title="Filmes / Séries",TV Sonata
@@ -105,8 +107,6 @@ http://live.ondadigitaltv.com/ODTV/index.m3u8
 https://cdn-tiva-video04-logicahost-com-br.smartbit.co/entertainmentplay/entertainmentplay/playlist.m3u8
 #EXTINF:-1 tvg-id="142" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/BHTV_Logo_2024.png" group-title="Internacional",BH TV
 https://cdn-tiva-sc1-wasidata-com.smartbit.co/Bhtv/video.m3u8
-#EXTINF:-1 tvg-id="324" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_NLLcngR.png" group-title="Minas",BH Channel
-https://cdn-tiva-stmv8-samcast-com-br.smartbit.co/jcbrasil7363/jcbrasil7363/playlist.m3u8
 #EXTINF:-1 tvg-id="115" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_YOUTUBE_100100px_ZfxeqjJ.png" group-title="Minas",AG Tv
 https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
 #EXTINF:-1 tvg-id="91" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tvc-correiodoimbe_100x100.png" group-title="Minas",TV Correio do Imbé
@@ -121,6 +121,8 @@ https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
 https://cdn-tiva-stmv7-samcast-com-br.smartbit.co/wtvbrasil/wtvbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="166" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tv-ondas-play-soul-tv.png" group-title="Minas",TV Ondas Play
 https://cdn-tiva-stmv5-samcast-com-br.smartbit.co/portalondasdemarica/portalondasdemarica/playlist.m3u8
+#EXTINF:-1 tvg-id="324" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_NLLcngR.png" group-title="Minas",BH Channel
+https://cdn-tiva-stmv8-samcast-com-br.smartbit.co/jcbrasil7363/jcbrasil7363/playlist.m3u8
 #EXTINF:-1 tvg-id="167" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/x_logo_reduz_1ctZvwI.png" group-title="Minas",TV Conquista
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="193" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_MAIS_BRASIL_LOGO_100x100.png" group-title="Minas",TV Mais Brasil
