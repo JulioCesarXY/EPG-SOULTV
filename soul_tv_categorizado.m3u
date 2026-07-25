@@ -150,7 +150,7 @@ https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 #EXTINF:-1 tvg-id="218" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/SOULTV-100x100px-.png" group-title="Regionais",TV Meio
 https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="330" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logotipo__1.png" group-title="Regionais",TV Marataizes
-https://stream-247788.castr.net/68ad1a7c724a6928f050ebba/live_c67f6fc057df11f182b1a9753cb65ff7/index.m3u8
+https://cdn-origin.smartplay.pe/tv-marataizes/index.m3u8
 #EXTINF:-1 tvg-id="328" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_100x100px_-_branco.png..png" group-title="Regionais",Alpha Channel TV
 https://maystreaming.cloudecast.com/alphachannel/index.m3u8
 #EXTINF:-1 tvg-id="327" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGOTIPO-TVIN-100X100_copiar.png" group-title="Regionais",TV IN
