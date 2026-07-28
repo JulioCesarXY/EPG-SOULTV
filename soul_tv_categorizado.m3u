@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="237" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/unnamed_1.png" group-title="Agronegócios",TV Folha do Campo
 https://stmv1.transmissaodigital.com/folha-do-campo/folha-do-campo/playlist.m3u8
 #EXTINF:-1 tvg-id="123" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_CNBOI-BRANCA_-_SD_reduzido.png" group-title="Agronegócios",Canal do Boi
-https://aovivo3.equipea.com.br:5443/aovivort/streams/OSCJWX8rDkLrgW7A488545952175222.m3u8
+https://aovivo3.equipea.com.br:5443/aovivort/streams/FGPjVZA1EidEnBCn5502382962900440.m3u8
 #EXTINF:-1 tvg-id="305" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_TV.png" group-title="Agronegócios",TV Notícias Agrícolas
 https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
 #EXTINF:-1 tvg-id="83" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_NOVA_TV_AGROTOUR_100x100.png" group-title="Agronegócios",Nova TV Agrotour
@@ -43,8 +43,6 @@ https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redebrasiloficial/redebra
 https://stream.ecast.com.br/jonas-silva/index.m3u8
 #EXTINF:-1 tvg-id="240" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/S%C3%A9ries_Classic_70_Channel_100x100.png" group-title="Entretenimento",Séries Classic
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
-#EXTINF:-1 tvg-id="279" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO-REPUBLIC-BRANCO-100x100_2.png" group-title="Entretenimento",Republic
-https://cdn-tiva-video01-soultv-com-br.smartbit.co/republic/republic/playlist.m3u8
 #EXTINF:-1 tvg-id="260" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logotipo_100x100_7rXoV9Y.png" group-title="Entretenimento",Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="99" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_CentralTv_100x100.png" group-title="Entretenimento",Central TV
