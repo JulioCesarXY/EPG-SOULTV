@@ -4069,7 +4069,7 @@
             "main_video_position_x": 0,
             "main_video_position_y": 0,
             "is_select_live_tv": true,
-            "url_live_streaming": "https://cdn-tiva-video01-soultv-com-br.smartbit.co/tvonix/tvonix/playlist.m3u8",
+            "url_live_streaming": "https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8",
             "type_mode": "c",
             "description": "Assista TV Onix na Soul TV. Sintonize a emoção!",
             "pos": 29.0,

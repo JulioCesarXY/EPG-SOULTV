@@ -220,7 +220,7 @@ https://cdn-tiva-stmv1-voxtvhd-com-br.smartbit.co/canaltvc/canaltvc/playlist.m3u
 #EXTINF:-1 tvg-id="215" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_40GTV_100X100.png" group-title="Regionais",40 gtv
 https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="234" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_TV_ONIX_Branco__100_x_100_.png" group-title="Regionais",TV Onix
-https://cdn-tiva-video01-soultv-com-br.smartbit.co/tvonix/tvonix/playlist.m3u8
+https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
 #EXTINF:-1 tvg-id="243" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_5.jpg" group-title="Regionais",TV Litoral RN
 https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
 #EXTINF:-1 tvg-id="250" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/PAG_02_-_LOGO_100X100_YUPjBIv.png" group-title="Regionais",Rede TV Paraná
