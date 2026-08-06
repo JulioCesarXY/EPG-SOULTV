@@ -107,8 +107,6 @@ https://cdn-tiva-video04-logicahost-com-br.smartbit.co/entertainmentplay/enterta
 https://cdn-tiva-sc1-wasidata-com.smartbit.co/Bhtv/video.m3u8
 #EXTINF:-1 tvg-id="115" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_YOUTUBE_100100px_ZfxeqjJ.png" group-title="Minas",AG Tv
 https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
-#EXTINF:-1 tvg-id="91" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tvc-correiodoimbe_100x100.png" group-title="Minas",TV Correio do Imbé
-https://srv2.tvmais.net.br/hls/tvcorreio/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/VRT_LOGO_BRANCO-01_baixa.png" group-title="Minas",VRT Channel
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="158" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV%C3%ADdeoNews_logo_oficial_reduz.png" group-title="Minas",TVídeoNews
