@@ -105,7 +105,7 @@
             "is_select_live_tv": true,
             "url_live_streaming": "https://stmv2.samcast.com.br/davi2252/davi2252/playlist.m3u8",
             "type_mode": "c",
-            "description": "",
+            "description": "Assista TV DA QUEBRADA na Soul TV.",
             "pos": 7.0,
             "is_premium": false,
             "premium_url": "",
@@ -113,7 +113,8 @@
             "autoplay": false,
             "category": [
                 "ALL",
-                "16"
+                "16",
+                "2"
             ],
             "background_image_web": "https://stsoultvbrs.blob.core.windows.net/media/brand/img/web/348/img_background_image_web_v3.jpg",
             "background_image_medium": "https://stsoultvbrs.blob.core.windows.net/media/brand/img/web/348/img_background_image_medium_v3.jpg",
@@ -145,7 +146,7 @@
             "is_select_live_tv": true,
             "url_live_streaming": "https://Stmv1.samcast.com.br/tvprotagonistasdo2603/tvprotagonistasdo2603/playlist.m3u8",
             "type_mode": "c",
-            "description": "",
+            "description": "Assista TV Protagonistas na Soul TV.",
             "pos": 8.0,
             "is_premium": false,
             "premium_url": "",
@@ -153,7 +154,8 @@
             "autoplay": false,
             "category": [
                 "ALL",
-                "16"
+                "16",
+                "14"
             ],
             "background_image_web": "https://stsoultvbrs.blob.core.windows.net/media/brand/img/web/347/img_background_image_web_v3.jpg",
             "background_image_medium": "https://stsoultvbrs.blob.core.windows.net/media/brand/img/web/347/img_background_image_medium_v3.jpg",
@@ -226,7 +228,7 @@
             "is_select_live_tv": true,
             "url_live_streaming": "https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8",
             "type_mode": "c",
-            "description": "",
+            "description": "Assista TV METROPOLES na Soul TV.",
             "pos": 9.0,
             "is_premium": false,
             "premium_url": "",
@@ -234,7 +236,8 @@
             "autoplay": false,
             "category": [
                 "ALL",
-                "16"
+                "16",
+                "8"
             ],
             "background_image_web": "https://media.soultv.com.br/media/brand/img/web/346/img_background_image_web_v3.jpg",
             "background_image_medium": "https://media.soultv.com.br/media/brand/img/web/346/img_background_image_medium_v3.jpg",
@@ -266,7 +269,7 @@
             "is_select_live_tv": true,
             "url_live_streaming": "https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8",
             "type_mode": "c",
-            "description": "",
+            "description": "Assista TV 24 HORAS na Soul TV.",
             "pos": 10.0,
             "is_premium": false,
             "premium_url": "",
@@ -274,7 +277,8 @@
             "autoplay": false,
             "category": [
                 "ALL",
-                "16"
+                "16",
+                "8"
             ],
             "background_image_web": "https://media.soultv.com.br/media/brand/img/web/345/img_background_image_web_v3.jpg",
             "background_image_medium": "https://media.soultv.com.br/media/brand/img/web/345/img_background_image_medium_v3.jpg",
@@ -2631,7 +2635,7 @@
             "is_select_live_tv": true,
             "url_live_streaming": "https://stream.ecast.com.br/jonas-silva/index.m3u8",
             "type_mode": "c",
-            "description": "",
+            "description": "Assista TV Clube na Soul TV.",
             "pos": 29.0,
             "is_premium": false,
             "premium_url": "",
