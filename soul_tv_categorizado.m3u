@@ -25,8 +25,6 @@ https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8
 https://cdn-tiva-stmv1-samcast-com-br.smartplay.pe/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:-1 tvg-id="110" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/QTAL_channel_logo_REDUZIDO.png" group-title="Entretenimento",Q Tal Channel
 https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="107" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/S%C3%A9ries_Classic_70_Channel_Novo_logo_100x100.png" group-title="Entretenimento",TV Mon HD
-https://cdn-tiva-video10-logicahost-com-br.smartplay.pe/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 tvg-id="127" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/100x100_1ET0LFK.png" group-title="Entretenimento",TV CNB
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/playlist.m3u8
 #EXTINF:-1 tvg-id="245" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/rede_brasil_MARCA_100x100.png" group-title="Entretenimento",Rede Brasil
@@ -35,14 +33,10 @@ https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redebrasiloficial/redebr
 https://stream.ecast.com.br/jonas-silva/index.m3u8
 #EXTINF:-1 tvg-id="240" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/S%C3%A9ries_Classic_70_Channel_100x100.png" group-title="Entretenimento",Séries Classic
 https://cdn-tiva-video10-logicahost-com-br.smartplay.pe/serieclassic/serieclassic/playlist.m3u8
-#EXTINF:-1 tvg-id="260" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logotipo_100x100_7rXoV9Y.png" group-title="Entretenimento",Geekdot
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="81" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO-NOVA-GRAFITE-_-R-PARA-A-SOUL-TV-.png" group-title="Esportes / Games",WTJ TV
 https://cdn-tiva-video02-logicahost-com-br.smartplay.pe/wtjtvminas/wtjtvminas/playlist.m3u8
 #EXTINF:-1 tvg-id="254" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/UNIQUE_SPORTS_100X100.png" group-title="Esportes / Games",Unique Sports
 https://pop.uniquetv.com.br/uniquesports1/video.m3u8
-#EXTINF:-1 tvg-id="314" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-100px-x-100px.png" group-title="Esportes / Games",Play TV Horse
-https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/playtvhorse/playtvhorse/playlist.m3u8
 #EXTINF:-1 tvg-id="155" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_100X100_axxpiY3.png" group-title="Esportes / Games",RS SPORTS
 https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports01/rssports01/playlist.m3u8
 #EXTINF:-1 tvg-id="156" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_2_100X100_OKYHE7H.png" group-title="Esportes / Games",RS SPORTS 2
@@ -51,8 +45,6 @@ https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports02/rssports02/pl
 https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports03/rssports03/playlist.m3u8
 #EXTINF:-1 tvg-id="242" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logomarca_CANAL_START_100X100_PNG.png" group-title="Esportes / Games",CANAL START
 https://cdn-tiva-srv5-zcast-com-br.smartplay.pe/canalstart/canalstart/playlist.m3u8
-#EXTINF:-1 tvg-id="311" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_DA_PESCA_100x100_Logo.png" group-title="Esportes / Games",TV da Pesca
-https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/tvdapesca/index.m3u8
 #EXTINF:-1 tvg-id="302" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/100px.png" group-title="Esportes / Games",VGS TV
 https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/vgstv/index.m3u8
 #EXTINF:-1 tvg-id="266" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tv_atitude_logo_100x100.png" group-title="Esportes / Games",Atitude New
@@ -71,8 +63,6 @@ https://Stmv1.samcast.com.br/tvprotagonistasdo2603/tvprotagonistasdo2603/playlis
 https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8
 #EXTINF:-1 tvg-id="345" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/24_horas_tv_SOUL_TV.png" group-title="Filmes / Séries",TV 24 HORAS
 https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8
-#EXTINF:-1 tvg-id="163" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_PNG_DIMENS%C3%A2O_100X100_-_GLN_TV_reduz_zKzqMEP.png" group-title="Filmes / Séries",GLN TV
-https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1 tvg-id="105" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvsonata.png" group-title="Filmes / Séries",TV Sonata
 https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/isonata/isonata/playlist.m3u8
 #EXTINF:-1 tvg-id="149" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_AWTV_SOULTV_AMARELO_reduz.png" group-title="Filmes / Séries",AWTV
@@ -125,10 +115,6 @@ https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/petloverstv/petloverstv/
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 #EXTINF:-1 tvg-id="218" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/SOULTV-100x100px-.png" group-title="Regionais",TV Meio
 https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/redemeio/index.m3u8
-#EXTINF:-1 tvg-id="330" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logotipo__1.png" group-title="Regionais",TV Marataizes
-https://cdn-origin.smartplay.pe/tv-marataizes/index.m3u8
-#EXTINF:-1 tvg-id="328" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_100x100px_-_branco.png..png" group-title="Regionais",Alpha Channel TV
-https://maystreaming.cloudecast.com/alphachannel/index.m3u8
 #EXTINF:-1 tvg-id="327" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGOTIPO-TVIN-100X100_copiar.png" group-title="Regionais",TV IN
 https://live.tvinterior.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-id="62" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/UNIQUE100X100_1.png" group-title="Regionais",Unique TV
@@ -137,24 +123,18 @@ https://pop.uniquetv.com.br/uniquetv/video.m3u8
 https://cdn-tiva-isaocorp-cloudecast-com.smartplay.pe/metropole/index.m3u8
 #EXTINF:-1 tvg-id="55" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tvmax-logo.png" group-title="Regionais",TV MAX
 https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1 tvg-id="88" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logotipo_-_Rede_Premium_TV_-_Colorido_medio.png" group-title="Regionais",Rede Premium TV
-https://cdn-tiva-stmv2-samcast-com-br.smartplay.pe/leonardo9878/leonardo9878/playlist.m3u8
 #EXTINF:-1 tvg-id="77" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_UTV_baixa.png" group-title="Regionais",Rede UTV Brasil
 https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="85" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TVPLANALTO.png" group-title="Regionais",TV Planalto Norte
 https://pop.uniquetv.com.br/tvplanaltonorte/video.m3u8
 #EXTINF:-1 tvg-id="117" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TVA_100X100.png" group-title="Regionais",TV Alternativa
 https://cdn-tiva-stmv5-samcast-com-br.smartplay.pe/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-id="195" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Petropolis_100.png" group-title="Regionais",TV Petrópolis
-https://cdn-tiva-video02-logicahost-com-br.smartplay.pe/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-id="57" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/amazonsat_100x100.png" group-title="Regionais",Amazon Sat
 https://cdn-tiva-amazonsat-brasilstream-com-br.smartplay.pe/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="129" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_1kkPCqI.png" group-title="Regionais",Tv Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 tvg-id="132" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Pe%C3%A7as_App_logo_100_x_100_reduz.png" group-title="Regionais",Primer TV
 http://177.74.174.57:8080/hls/primertv.m3u8
-#EXTINF:-1 tvg-id="227" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/100x100_-_sem_fundo.png" group-title="Regionais",Roraima TV
-https://video06.logicahost.com.br/roraimatv/roraimatv/playlist.m3u8
 #EXTINF:-1 tvg-id="152" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_Zoom_Soul_Tv.png" group-title="Regionais",Tv Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-id="181" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_america-tv.png" group-title="Regionais",America TV
@@ -173,8 +153,6 @@ https://cdn-tiva-video02-logicahost-com-br.smartplay.pe/tvriopreto/tvriopreto/pl
 https://stmv2.srvsh.com.br/douglas5010/douglas5010/playlist.m3u8
 #EXTINF:-1 tvg-id="241" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_1.png" group-title="Regionais",Tv Mogiana
 https://a.cdni.live/mogianaonline4773/mogianaonline4773/playlist.m3u8
-#EXTINF:-1 tvg-id="205" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_100x100_SOULTV.png" group-title="Regionais",GMC TV
-https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/motionbrasiltv/motionbrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="211" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_braca.png" group-title="Regionais",TV Reconcavo
 https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/tvreconcavo/tvreconcavo/playlist.m3u8
 #EXTINF:-1 tvg-id="229" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_tvc_100x100_soul_tv.png" group-title="Regionais",Canal TVC
@@ -215,8 +193,6 @@ https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/astraltv/index.m3u8
 https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/tvavivandonacoes/tvavivandonacoes/playlist.m3u8
 #EXTINF:-1 tvg-id="210" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/100x_100.png" group-title="Religioso",Br Global Station
 https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8
-#EXTINF:-1 tvg-id="259" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Coletiva_tv_100x100-central.png" group-title="Shopping",Coletiva TV
-https://cdn-tiva-video02-logicahost-com-br.smartplay.pe/coletivatv/coletivatv/playlist.m3u8
 #EXTINF:-1 tvg-id="310" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_TV_Gazin_100x100_PNG_ihJObtR.png" group-title="Shopping",TV Gazin
 https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvgazin/tvgazin/playlist.m3u8
 #EXTINF:-1 tvg-id="332" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Judaica_100x100.png" group-title="Variedades",TV Judaica
