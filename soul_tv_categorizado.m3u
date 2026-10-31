@@ -117,8 +117,6 @@ https://a.cdni.live/mogianaonline4773/mogianaonline4773/playlist.m3u8
 https://cdn-origin.soultv.com.br/soultv-canaltvc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="215" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_40GTV_100X100.png" group-title="Regionais",40 gtv
 https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="234" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_TV_ONIX_Branco__100_x_100_.png" group-title="Regionais",TV Onix
-https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
 #EXTINF:-1 tvg-id="250" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/PAG_02_-_LOGO_100X100_YUPjBIv.png" group-title="Regionais",Rede TV Paraná
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="221" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_POA_Streaming_100_px.png" group-title="Regionais",POA Streaming TV
